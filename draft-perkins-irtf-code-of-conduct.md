@@ -53,7 +53,8 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This memo describes the code of conduct for participation in the
+Internet Research Task Force (IRTF).
 
 
 --- middle
