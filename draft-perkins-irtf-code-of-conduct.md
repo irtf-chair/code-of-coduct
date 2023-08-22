@@ -19,12 +19,12 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "IRTF Code of Conduct"
+abbrev: "IRTF Code of Conduct"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+docname: draft-perkins-irtf-code-of-conduct
+submissiontype: IRTF  # also: "independent", "editorial", "IAB", or "IETF"
 number:
 date:
 consensus: true
@@ -32,22 +32,21 @@ v: 3
 area: AREA
 workgroup: WG Working Group
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - IRTF
+ - Code of Conduct
 venue:
   group: WG
-  type: Working Group
-  mail: WG@example.com
+  type: Research Group
+  mail: irtf-discuss@irtf.org 
   arch: https://example.com/WG
-  github: USER/REPO
+  github: irtf-chair/code-of-conduct
   latest: https://example.com/LATEST
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Colin Perkins
+    organization: University of Glasgow
+    email: csp@csperkins.org
 
 normative:
 
