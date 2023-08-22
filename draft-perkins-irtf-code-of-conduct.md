@@ -185,12 +185,15 @@ reflects those differences in emphasis between the two organisations.
 
 # Security Considerations
 
-TODO Security
+The IRTF code of conduct does not directly affect the security of the
+Internet. Researchers working in the IRTF should consider the potential
+security risks and implications of their work and, where possible, should
+aim to improve the security of the Internet through their research.
 
 
 # IANA Considerations
 
-This document has no IANA actions.
+This document requires no IANA actions.
 
 
 --- back
