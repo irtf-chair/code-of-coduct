@@ -9,18 +9,18 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: ""
+workgroup: "IRTF"
 keyword:
  - IRTF
  - Code of Conduct
 venue:
-  group: WG
-  type: Research Group
-  mail: irtf-discuss@irtf.org 
-  arch: https://example.com/WG
-  github: irtf-chair/code-of-conduct
-  latest: https://example.com/LATEST
+  group: "IRTF"
+  type: "Internet Research Task Force"
+  mail: ""
+  arch: ""
+  github: "irtf-chair/code-of-coduct"
+  latest: "https://irtf-chair.github.io/code-of-coduct/draft-perkins-irtf-code-of-conduct.html"
 
 author:
  -
