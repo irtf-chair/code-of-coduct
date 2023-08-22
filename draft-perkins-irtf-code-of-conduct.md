@@ -88,7 +88,7 @@ intimidating behaviour will not be tolerated in IRTF meetings and events,
 or on mailing lists and other online forums. Participants must follow the
 IETF anti-harassment policy which also applies to the IRTF [ANTI-HARASSMENT].
 
-Harassment is unwelcomem hostile, or intimidating behaviour, in particular
+Harassment is unwelcome, hostile, or intimidating behaviour, in particular
 speech or behaviour that is sexually aggressive or that intimidates based on
 attributes such as race, gender, religion, age, colour, national origin,
 ancestry, disability, sexual orientation, or gender identity. Harassment of
