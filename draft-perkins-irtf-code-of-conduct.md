@@ -46,6 +46,8 @@ normative:
     target: https://www.ietf.org/contact/ombudsteam/
     date: Nov, 2013
 
+  RFC7154:
+
 informative:
 
 
@@ -163,8 +165,21 @@ for IRTF events to support those who cannot attend in person.
 
 # Rationale
 
-IRTF is not IETF. Why the IETF policy is not appropriate.
+The IRTF is not the IETF. While the two organisations work closely
+together, and often co-locate meeting and other activities, they have
+different goals and work in different ways.
 
+The IETF is a consensus-driven standards developing organisation, where
+participants use their best engineering judgment to find the best solution
+for the whole Internet, as it stands today, and to develop the best
+technical standards to make the Internet work better.
+IRTF research can be more speculative, and takes a longer-term view of
+the development of the Internet without the requirements for consensus
+or near-term applicability and deployability that come from standards
+development.
+
+Compared to the IETF equivalent [RFC7154] this IRTF code of conduct
+reflects those differences in emphasis between the two organisations.
 
 
 
