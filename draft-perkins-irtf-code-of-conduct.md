@@ -38,13 +38,18 @@ normative:
     author:
       - name: National Institute of Standards and Technology (NIST)
     seriesinfo: Interagency or Internal Report 8366 (NISTIR 8366)
-    date: April 2021
+    date: April, 2021
     target: https://doi.org/10.6028/NIST.IR.8366
 
   OMBUDSTEAM:
     title: Ombudsteam
     target: https://www.ietf.org/contact/ombudsteam/
     date: Nov, 2013
+
+  INCLUSIVE:
+    title: Inclusive Language in Contributions to the IRTF
+    target: https://irtf.org/policies/inclusive-language.html
+    date: May, 2021
 
   RFC7154:
 
@@ -136,7 +141,7 @@ conferences, workshops, and other events, is respectful and inclusive.
 Effective research uses terminology that is clear, precise, and widely
 accessible to readers from varying backgrounds and cultures.  Participants
 are encouraged to follow the guidance on inclusive language in [NISTIR8366]
-when making contributions to the IRTF.
+when making contributions to the IRTF [INCLUSIVE].
 
 
 # Academic Integrity
