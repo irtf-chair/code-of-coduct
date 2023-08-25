@@ -16,8 +16,6 @@ keyword:
  - IRTF
  - Code of Conduct
 venue:
-  mail: ""
-  arch: ""
   github: "irtf-chair/code-of-coduct"
   latest: "https://irtf-chair.github.io/code-of-coduct/draft-perkins-irtf-code-of-conduct.html"
 
@@ -53,6 +51,8 @@ normative:
 
   RFC7154:
 
+  RFC7776:
+
 informative:
 
 
@@ -75,7 +75,7 @@ standards making.
 
 Research is most effective when done in an open and inclusive forum that
 encourages diversity of ideas and diversity of participation. The IRTF,
-through these guidelines for conduct, will continue to strive to create and
+through this code of conduct, will continue to strive to create and
 maintain an environment that encourages broad participation, and one in
 which people of many different backgrounds are treated with dignity,
 decency, and respect. We will work to ensure that all members of the IRTF
@@ -96,7 +96,8 @@ IETF anti-harassment policy which also applies to the IRTF [ANTI-HARASSMENT].
 Harassment is unwelcome, hostile, or intimidating behaviour, in particular
 speech or behaviour that is sexually aggressive or that intimidates based on
 attributes such as race, gender, religion, age, colour, national origin,
-ancestry, disability, sexual orientation, or gender identity. Harassment of
+ancestry, disability, sexual orientation, or gender identity [RFC7776].
+Harassment of
 this sort will not be tolerated in the IRTF. Examples of harassment
 include, but are not limited to, the use of offensive language or sexual
 imagery in public presentations and displays, degrading verbal comments,
@@ -106,9 +107,9 @@ inappropriate physical contact, and unwelcome sexual attention.
 If you believe you have been harassed, notice that someone else is being
 harassed, or have any other concerns, you are encouraged to raise your
 concern with the relevant Research Group Chair, the IRTF Chair, or the
-Ombudsteam [OMBUDSTEAM]. All such concerns will be considered and action
-will be taken as appropriate, up to and including exclusion of the
-offending party from IRTF activities.
+Ombudsteam [OMBUDSTEAM] who work on an independent and confidential basis.
+All such concerns will be considered and action will be taken as appropriate,
+up to and including exclusion of the offending party from IRTF activities.
 
 The IRTF operates and make use of a number of mailing lists and other
 online discussion forums. The Research Group chairs act as moderators for
@@ -162,23 +163,22 @@ misrepresentation of authorship.
 
 # Participation
 
-Recognising the need to bring new work and new ideas to the IRTF, to
-address both technical and non-technical challenges relating to the ongoing
-development of the Internet, the IRTF will seek to encourage research
-relating to the development of the Internet in all its diversity and for
-all its users.
+The IRTF seeks to encourage research relating to the development of the
+Internet in all its diversity and for all its users, considering both
+technical and societal challenges of such development.
 
-To encourage and broaden participation, the IRTF will work to provide
-travel grants, fee waivers, childcare, and other support to allow students,
-early career researchers, members of under-represented groups, and others who
-might otherwise be unable to participate, to attend IRTF research group
-meetings, workshops, conferences, and other events.  Accessibility and
-access concerns should be considered when organising such events.
+To encourage broad participation, reflecting this diversity, participants
+should consider accessibility and access-related concerns when organising
+IRTF research group meetings, workshops, conferences, and other events.
+The IRTF will work to support this by providing travel grants, fee waivers,
+childcare, and other support to allow students, early career researchers,
+members of under-represented groups, and others who might otherwise be
+unable to participate.
 
-IRTF participants will work to make meeting materials available online in
- a timely manner, and will work to ensure that such materials are broadly
-accessible. Where possible, remote participation options will be provided
-for IRTF events to support those who cannot attend in person.
+Participants should work to make meeting materials available online in a
+timely manner, and to ensure that such materials are broadly accessible.
+Participants should work to enable remote participation in IRTF events
+to support those who cannot attend in person.
 
 
 # Rationale
@@ -226,4 +226,7 @@ This memo is based, in part, on the IETF guidelines for conduct [RFC7154].
 The influence of the code of conduct and other policies of the USENIX
 Association and the Association for Computing Machinery is also gratefully
 acknowledged.
+
+Thanks for Jay Daley, Lars Eggert, and the other members of the Internet
+Research Steering Group (IRSG) for their feedback on this document.
 
