@@ -5,11 +5,8 @@ category: info
 
 docname: draft-perkins-irtf-code-of-conduct-latest
 submissiontype: IRTF
-pi: [toc, sortrefs, symrefs]
-stand_alone: yes
 consensus: true
 v: 3
-ipr: trust200902
 area: General
 workgroup: "IRTF"
 keyword:
@@ -22,7 +19,7 @@ venue:
 author:
  -  ins: C. S. Perkins
     fullname: Colin Perkins
-    organization: University of Glasgow
+    org: University of Glasgow
     email: csp@csperkins.org
 
 normative:
@@ -34,10 +31,11 @@ normative:
   NISTIR8366:
     title: Guidance for NIST Staff on Using Inclusive Language in Documentary Standards
     author:
-      - name: National Institute of Standards and Technology (NIST)
-    seriesinfo: Interagency or Internal Report 8366 (NISTIR 8366)
+      - org: National Institute of Standards and Technology (NIST)
+    rc: Interagency or Internal Report 8366 (NISTIR 8366)
     date: April, 2021
-    target: https://doi.org/10.6028/NIST.IR.8366
+    seriesinfo:
+      DOI: 10.6028/NIST.IR.8366
 
   OMBUDSTEAM:
     title: Ombudsteam
@@ -149,7 +147,7 @@ when making contributions to the IRTF [INCLUSIVE].
 
 The IRTF takes academic integrity seriously. Plagiarism, including
 self-plagiarism, misrepresentation of authorship, and content falsification
-constitute dishonestry and fraud. Such actions are prohibited and the IRTF
+constitute dishonesty and fraud. Such actions are prohibited and the IRTF
 may take action against authors that commit them.
 
 The use of automated systems, for example large language models and other
@@ -188,7 +186,7 @@ together, and often co-locate meeting and other activities, they have
 different goals and work in different ways.
 
 The IETF is a consensus-driven standards developing organisation, where
-participants use their best engineering judgment to find the best solution
+participants use their best engineering judgement to find the best solution
 for the whole Internet, as it stands today, and to develop the best
 technical standards to make the Internet work better.
 IRTF research can be more speculative, and takes a longer-term view of
