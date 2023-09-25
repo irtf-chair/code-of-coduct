@@ -171,7 +171,7 @@ misrepresentation of authorship.
 
 The IRTF seeks to encourage research relating to the development of the
 Internet in all its diversity and for all its users, considering both
-technical and societal challenges of such development.
+technical, economic, and societal challenges of such development.
 
 To encourage broad participation, reflecting this diversity, participants
 should consider accessibility and access-related concerns when organising
