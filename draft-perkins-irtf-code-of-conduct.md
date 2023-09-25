@@ -51,6 +51,8 @@ normative:
 
   RFC7776:
 
+  RFC8890:
+
 informative:
 
 
@@ -86,7 +88,7 @@ disability, or other unique characteristics.
 
 The IRTF is committed to providing a safe and enjoyable experience for all
 participants. Those participating in the IRTF must extend respect and
-courtesy to others at all times. 
+courtesy to others at all times.
 
 Harassment is unwelcome, hostile, or intimidating behaviour, in particular
 speech or behaviour that is sexually aggressive or that intimidates based on
@@ -146,7 +148,7 @@ when making contributions to the IRTF [INCLUSIVE].
 
 # Academic Integrity
 
-The IRTF takes academic integrity seriously. 
+The IRTF takes academic integrity seriously.
 Participants must act with respect, honesty, transparancy, and fairness.
 They should be trustworhy, aspire to objectivity, aim to provide factual
 evidence in support of their claims and justification for their reasoning.
@@ -209,10 +211,15 @@ reflects those differences in emphasis between the two organisations.
 
 # Security Considerations
 
-The IRTF code of conduct does not directly affect the security of the
-Internet. Researchers working in the IRTF should consider the potential
-security risks and implications of their work and, where possible, should
-aim to improve the security of the Internet through their research.
+This IRTF code of conduct does not directly affect the security of the
+Internet.
+
+Research results, when translated into practice, have the potential to
+significantly impact the security and privacy of users of the Internet.
+Researchers should consider the potential security benefits, risks, and
+implications of their work and, where possible, should aim to improve
+security and protect the privacy of Internet users through their research
+[RFC8890].
 
 
 # IANA Considerations
