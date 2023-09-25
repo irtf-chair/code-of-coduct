@@ -112,9 +112,11 @@ All such concerns will be considered and action will be taken as appropriate,
 up to and including exclusion of the offending party from IRTF activities.
 
 The IRTF operates and makes use of a number of mailing lists and other
-online discussion forums. The Research Group chairs act as moderators for
-such forums used by their research groups; the IRTF Chair moderates
-IRTF-wide lists and discussion forums. Harassment or disruption due to the
+online discussion forums. At the time of this writing, Research Group 
+chairs act as moderators for such forums used by their research groups
+and the IRTF Chair moderates IRTF-wide lists and discussion forums.
+Other moderators may be appointed in future.
+Harassment or disruption due to the
 posting of messages that are inflammatory, abusive, or otherwise
 inappropriate, or the repeated posting of off-topic material, on these lists
 and discussion forums will not be tolerated.
