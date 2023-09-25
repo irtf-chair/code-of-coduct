@@ -109,12 +109,13 @@ Ombudsteam [OMBUDSTEAM] who work on an independent and confidential basis.
 All such concerns will be considered and action will be taken as appropriate,
 up to and including exclusion of the offending party from IRTF activities.
 
-The IRTF operates and make use of a number of mailing lists and other
+The IRTF operates and makes use of a number of mailing lists and other
 online discussion forums. The Research Group chairs act as moderators for
 such forums used by their research groups; the IRTF Chair moderates
 IRTF-wide lists and discussion forums. Harassment or disruption due to the
-posting of messages that are off-topic, inflammatory, abusive or otherwise
-inappropriate on these lists and discussion forums will not be tolerated.
+posting of messages that are inflammatory, abusive, or otherwise
+inappropriate, or the repeated posting of off-topic material, on these lists
+and discussion forums will not be tolerated.
 Moderators will respond to harassing or disruptive behaviour with a warning
 in the first instance, but thereafter may temporarily or permanently
 suspend posting rights for any individual engaging in such behaviour.
