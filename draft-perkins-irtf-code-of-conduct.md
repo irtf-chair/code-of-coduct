@@ -86,17 +86,17 @@ disability, or other unique characteristics.
 
 The IRTF is committed to providing a safe and enjoyable experience for all
 participants. Those participating in the IRTF must extend respect and
-courtesy to others at all times. Harassment, unwelcome, hostile, or
-intimidating behaviour will not be tolerated in IRTF meetings and events,
-or on mailing lists and other online forums. Participants must follow the
-IETF anti-harassment policy which also applies to the IRTF [ANTI-HARASSMENT].
+courtesy to others at all times. 
 
 Harassment is unwelcome, hostile, or intimidating behaviour, in particular
 speech or behaviour that is sexually aggressive or that intimidates based on
 attributes such as race, gender, religion, age, colour, national origin,
 ancestry, disability, sexual orientation, or gender identity [RFC7776].
-Harassment of
-this sort will not be tolerated in the IRTF. Examples of harassment
+Harassment will not be tolerated in IRTF meetings and events, or on mailing
+lists and other online forums. Participants must follow the IETF
+anti-harassment policy which also applies to the IRTF [ANTI-HARASSMENT].
+
+Examples of harassment
 include, but are not limited to, the use of offensive language or sexual
 imagery in public presentations and displays, degrading verbal comments,
 deliberate intimidation, stalking, harassing photography or recording,
@@ -225,6 +225,7 @@ The influence of the code of conduct and other policies of the USENIX
 Association and the Association for Computing Machinery is also gratefully
 acknowledged.
 
-Thanks for Jay Daley, Lars Eggert, and the other members of the Internet
-Research Steering Group (IRSG) for their feedback on this document.
+Thanks for Jay Daley, Lars Eggert, Carsten Bormann, and the other members
+of the Internet Research Steering Group (IRSG) for their feedback on this
+document.
 
