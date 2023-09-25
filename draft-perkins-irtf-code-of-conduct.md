@@ -146,10 +146,17 @@ when making contributions to the IRTF [INCLUSIVE].
 
 # Academic Integrity
 
-The IRTF takes academic integrity seriously. Plagiarism, including
-self-plagiarism, misrepresentation of authorship, and content falsification
-constitute dishonesty and fraud. Such actions are prohibited and the IRTF
-may take action against authors that commit them.
+The IRTF takes academic integrity seriously. 
+Participants must act with respect, honesty, transparancy, and fairness.
+They should be trustworhy, aspire to objectivity, aim to provide factual
+evidence in support of their claims and justification for their reasoning.
+They should be generous, give credit to others where it is due, and
+recognise that understanding advances through the collaborative research
+efforts of many, rather than for the glory of a few.
+
+Plagiarism, including self-plagiarism, misrepresentation of authorship, and
+content falsification constitute dishonesty and fraud. Such actions are
+prohibited and the IRTF may take action against authors that commit them.
 
 The use of automated systems, for example large language models and other
 AI-based tools, to generate all or part of the content of a document,
