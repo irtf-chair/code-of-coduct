@@ -154,8 +154,8 @@ when making contributions to the IRTF [INCLUSIVE].
 # Academic Integrity
 
 The IRTF takes academic integrity seriously.
-Participants must act with respect, honesty, transparancy, and fairness.
-They should be trustworhy, aspire to objectivity, aim to provide factual
+Participants must act with respect, honesty, transparency, and fairness.
+They should be trustworthy, aspire to objectivity, aim to provide factual
 evidence in support of their claims and justification for their reasoning.
 They should be generous, give credit to others where it is due, and
 recognise that understanding advances through the collaborative research
