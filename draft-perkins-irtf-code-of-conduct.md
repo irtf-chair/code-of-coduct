@@ -98,21 +98,17 @@ to the evolution and deployment of the Internet protocols, applications,
 architecture and technology, and to understanding the development of the
 Internet in all its diversity and for all its users, considering both
 technical, economic, and societal challenges of such development.
+
 The IRTF focuses on longer term research issues related to the Internet
 while a parallel organisation, the Internet Engineering Task Force (IETF),
 considers the shorter term issues of engineering and standards development.
-
 
 Research is most effective when done in an open and inclusive forum that
 encourages diversity of ideas and diversity of participation. The IRTF,
 through this code of conduct, will continue to strive to create and
 maintain an environment that encourages broad participation, and one in
 which people of many different backgrounds are treated with dignity,
-decency, and respect. The IRTF will work to ensure that all members of
-the community feel valued and respected, regardless of their gender, race,
-ethnicity, national origin, age, sexual orientation or identity, education,
-disability, or other unique characteristics.
-
+decency, and respect.
 
 # Conduct
 
@@ -121,12 +117,9 @@ participants. Those participating in the IRTF must extend respect and
 courtesy to others at all times.
 
 Harassment is unwelcome, hostile, or intimidating behaviour, in particular
-speech or behaviour that is sexually aggressive or that intimidates based on
-attributes such as race, gender, religion, age, colour, national origin,
+speech or behaviour that is sexually aggressive or that intimidates based
+on attributes such as race, gender, religion, age, colour, national origin,
 ancestry, disability, sexual orientation, or gender identity [RFC7776].
-Harassment will not be tolerated in IRTF meetings and events, or on mailing
-lists and other online forums. Participants must follow the IETF
-anti-harassment policy which also applies to the IRTF [ANTI-HARASSMENT].
 
 Examples of harassment
 include, but are not limited to, the use of offensive language or sexual
@@ -134,12 +127,17 @@ imagery in public presentations and displays, degrading verbal comments,
 deliberate intimidation, stalking, harassing photography or recording,
 inappropriate physical contact, and unwelcome sexual attention.
 
+Harassment will not be tolerated in IRTF meetings and events, or on mailing
+lists and other online forums. Participants must follow the IETF
+anti-harassment policy which also applies to the IRTF [ANTI-HARASSMENT].
+
 If you believe you have been harassed, notice that someone else is being
 harassed, or have any other concerns, you are encouraged to raise your
 concern with the relevant Research Group Chair, the IRTF Chair, or the
 Ombudsteam [OMBUDSTEAM] who work on an independent and confidential basis.
-All such concerns will be considered and action will be taken as appropriate,
-up to and including exclusion of the offending party from IRTF activities.
+All such concerns will be seriously considered, and action will be taken as
+appropriate, up to and including exclusion of the offending party from IRTF
+activities.
 
 The IRTF operates and makes use of a number of mailing lists and other
 online discussion forums. At the time of this writing, Research Group
@@ -207,18 +205,18 @@ The IRTF publishes informational and experimental documents in the RFC
 series. The nature of these documents, and their preceding internet-drafts,
 is that they often extend or elaborate upon previously published research
 results, to support ongoing development and experimentation by the IRTF
-community. Such work is encouraged as an important part of the process of
-disseminating research ideas and ensuring that they work in-the-wild, but
-authors must ensure that any prior work, including their own prior work,
-is appropriately cited and acknowledged, and that any derivative works are
-submitted with permission of the copyright holder.
+community. These documents are encouraged as an important part of the
+process of disseminating research ideas and ensuring that they work in
+the Internet at large, but authors must ensure that prior work on which
+they are based, including their own prior work, is appropriately cited and
+acknowledged, and that such documents respect the copyright of prior work.
 
-The documents the IRTF publishes in the RFC series may represent the views
-of their authors or they may be consensus documents representing the views
-of a research group. It is a misrepresentation for authors to falsely
-claim that a document represents the consensus view of a research group.
-Similarly, the editors of a research group consensus document must not
-misrepresent their role as that of authors.
+IRTF documents may represent the views of their authors or they may be
+consensus documents representing the views of a research group. It is a
+misrepresentation for authors to falsely claim that a document represents
+the consensus view of a research group.  Similarly, the editors of a
+research group consensus document must not misrepresent their role as that
+of authors.
 
 
 # Research Ethics
@@ -275,7 +273,7 @@ the development of the Internet without the requirements for consensus
 or near-term applicability and deployability that come from standards
 development.
 
-Compared to the IETF equivalent [RFC7154] this IRTF code of conduct
+Compared to the IETF equivalent [RFC7154], this IRTF code of conduct
 reflects those differences in emphasis between the two organisations.
 
 
@@ -307,20 +305,12 @@ This work is supported in part by the UK Engineering and Physical Sciences
 Research Council under grant EP/S036075/1.
 
 This document is based, in part, on the IETF guidelines for conduct [RFC7154].
-The influence of the code of conduct and other policies of the USENIX
-Association and the Association for Computing Machinery is also gratefully
+The influence of the code of conduct and other policies of ICANN, the USENIX
+Association, and the Association for Computing Machinery is also gratefully
 acknowledged.
 
-Thanks to 
-Carsten Bormann, 
-Jane Coffin, 
-Jay Daley, 
-Lars Eggert, 
-Stephen Farrell, 
-Dirk Kutscher, 
-Marie-Jose Montpetit, 
-Melinda Shore, 
-Niels ten Oever, 
-and the other members of the Internet Research Steering Group (IRSG) for
-their feedback on this document.
+Thanks to Carsten Bormann, Jane Coffin, Jay Daley, Lars Eggert, Stephen
+Farrell, Dirk Kutscher, Marie-Jose Montpetit, Melinda Shore, Niels ten
+Oever, and the other members of the Internet Research Steering Group (IRSG)
+for their feedback on this document.
 
