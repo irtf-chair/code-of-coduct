@@ -75,19 +75,20 @@ decency, and respect
 # Introduction
 
 The Internet Research Task Force (IRTF) promotes research of importance to
-the evolution of the Internet protocols, applications, architecture and
-technology. The IRTF focuses on longer term research issues related to the
-Internet while the parallel organisation, the Internet Engineering Task
-Force (IETF), focuses on the shorter term issues of engineering and
-standards making.
+the evolution and deployment of the Internet protocols, applications,
+architecture and technology, and to understanding the implications of that
+development. The IRTF focuses on longer term research issues related to
+the Internet while a parallel organisation, the Internet Engineering Task
+Force (IETF), considers the shorter term issues of engineering and
+standards development.
 
 Research is most effective when done in an open and inclusive forum that
 encourages diversity of ideas and diversity of participation. The IRTF,
 through this code of conduct, will continue to strive to create and
 maintain an environment that encourages broad participation, and one in
 which people of many different backgrounds are treated with dignity,
-decency, and respect. We will work to ensure that all members of the IRTF
-community feel valued and respected, regardless of their gender, race,
+decency, and respect. The IRTF will work to ensure that all members of
+the community feel valued and respected, regardless of their gender, race,
 ethnicity, national origin, age, sexual orientation or identity, education,
 disability, or other unique characteristics.
 
