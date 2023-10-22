@@ -147,7 +147,7 @@ Participants should aim to speak slowly and clearly in presentations and
 discussions, and should strive to make presentations and other materials
 accessible to those with impaired vision or disabilities. Participants
 should also avoid the use of slang and unnecessary jargon in both spoken
-and written communication. When faced with English that is difficult to
+and written communication. When faced with English that may be difficult to
 understand, IRTF participants should make a sincere effort to understand
 each other and to engage in conversation to clarify what was meant.
 
