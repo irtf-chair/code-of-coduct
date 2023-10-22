@@ -74,13 +74,15 @@ decency, and respect
 
 # Introduction
 
-The Internet Research Task Force (IRTF) promotes research of importance to
-the evolution and deployment of the Internet protocols, applications,
-architecture and technology, and to understanding the implications of that
-development. The IRTF focuses on longer term research issues related to
-the Internet while a parallel organisation, the Internet Engineering Task
-Force (IETF), considers the shorter term issues of engineering and
-standards development.
+The Internet Research Task Force (IRTF) promotes research of importance
+to the evolution and deployment of the Internet protocols, applications,
+architecture and technology, and to understanding the development of the
+Internet in all its diversity and for all its users, considering both
+technical, economic, and societal challenges of such development.
+The IRTF focuses on longer term research issues related to the Internet
+while a parallel organisation, the Internet Engineering Task Force (IETF),
+considers the shorter term issues of engineering and standards development.
+
 
 Research is most effective when done in an open and inclusive forum that
 encourages diversity of ideas and diversity of participation. The IRTF,
@@ -183,11 +185,7 @@ misrepresentation of authorship.
 
 
 
-# Participation
-
-The IRTF seeks to encourage research relating to the development of the
-Internet in all its diversity and for all its users, considering both
-technical, economic, and societal challenges of such development.
+# Participation and Accessibility
 
 To encourage broad participation, reflecting this diversity, participants
 should consider accessibility and access-related concerns when organising
