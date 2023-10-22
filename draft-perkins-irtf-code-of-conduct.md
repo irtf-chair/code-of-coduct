@@ -80,7 +80,7 @@ informative:
 This document describes the code of conduct for participants in the
 Internet Research Task Force (IRTF).
 
-The IRTF recognises that research is most effective when done in an open
+The IRTF believes that research is most effective when done in an open
 and inclusive forum that encourages diversity of ideas and diversity of
 participation.
 Through this code of conduct, the IRTF will continue to strive to create
@@ -103,12 +103,12 @@ The IRTF focuses on longer term research issues related to the Internet
 while a parallel organisation, the Internet Engineering Task Force (IETF),
 considers the shorter term issues of engineering and standards development.
 
-Research is most effective when done in an open and inclusive forum that
-encourages diversity of ideas and diversity of participation. The IRTF,
-through this code of conduct, will continue to strive to create and
-maintain an environment that encourages broad participation, and one in
-which people of many different backgrounds are treated with dignity,
-decency, and respect.
+The IRTF believes that research is most effective when done in an open and
+inclusive forum that encourages diversity of ideas and diversity of
+participation. The IRTF, through this code of conduct, will continue to
+strive to create and maintain an environment that encourages broad
+participation, and one in which people of many different backgrounds are
+treated with dignity, decency, and respect.
 
 # Conduct
 
@@ -118,8 +118,8 @@ courtesy to others at all times.
 
 Harassment is unwelcome, hostile, or intimidating behaviour, in particular
 speech or behaviour that is sexually aggressive or that intimidates based
-on attributes such as race, gender, religion, age, colour, national origin,
-ancestry, disability, sexual orientation, or gender identity [RFC7776].
+on attributes such as education, race, gender, religion, age, colour, national origin,
+ancestry, disability, medical condition, sexual orientation, or gender identity [RFC7776].
 
 Examples of harassment
 include, but are not limited to, the use of offensive language or sexual
