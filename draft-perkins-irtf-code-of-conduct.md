@@ -306,12 +306,21 @@ This document requires no IANA actions.
 This work is supported in part by the UK Engineering and Physical Sciences
 Research Council under grant EP/S036075/1.
 
-This memo is based, in part, on the IETF guidelines for conduct [RFC7154].
+This document is based, in part, on the IETF guidelines for conduct [RFC7154].
 The influence of the code of conduct and other policies of the USENIX
 Association and the Association for Computing Machinery is also gratefully
 acknowledged.
 
-Thanks for Jay Daley, Lars Eggert, Carsten Bormann, Melinda Shore, and the
-other members of the Internet Research Steering Group (IRSG) for their
-feedback on this document.
+Thanks to 
+Carsten Bormann, 
+Jane Coffin, 
+Jay Daley, 
+Lars Eggert, 
+Stephen Farrell, 
+Dirk Kutscher, 
+Marie-Jose Montpetit, 
+Melinda Shore, 
+Niels ten Oever, 
+and the other members of the Internet Research Steering Group (IRSG) for
+their feedback on this document.
 
