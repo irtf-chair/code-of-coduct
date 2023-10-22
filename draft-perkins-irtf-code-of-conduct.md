@@ -55,6 +55,25 @@ normative:
 
 informative:
 
+  MENLO:
+    title: The Menlo Report - Ethical Principles Guiding Information and Communication Technology Research
+    author:
+     - org: US Department of Homeland Security Science and Technology Directorate
+    date: Aug, 2012
+    target: https://www.dhs.gov/sites/default/files/publications/CSD-MenloPrinciplesCORE-20120803_1.pdf
+
+  BELMONT:
+    title:  The Belmont Report - Ethical Principles and Guidelines for the Protection of Human Subjects of Research
+    author:
+      - org: National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research
+    target: https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/
+
+  ACM:
+    title: ACM Publications Policy on Research Involving Human Participants and Subjects
+    author:
+      - org: ACM Publications Board
+    target: https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects
+
 
 --- abstract
 
@@ -200,6 +219,24 @@ of a research group. It is a misrepresentation for authors to falsely
 claim that a document represents the consensus view of a research group.
 Similarly, the editors of a research group consensus document must not
 misrepresent their role as that of authors.
+
+
+# Research Ethics
+
+Participants must ensure that their research, in particular research that
+involves human subjects or personal data, is conducted ethically and with
+respect for persons, in careful consideration of the risks and benefits
+of the work, ensuring that those that bear the risk also gain some benefit,
+and with respect for the law and public interest.
+
+Participants should consult with their organisation's Institutional Review
+Board, Research Ethics Committee, or similar, prior to conducting research
+that might raise ethical concerns.
+
+Participants are refered to the guidance in the Menlo Report [MENLO], the
+Belmont Report [BELMONT], and the ACM Policy on Research Involving Human
+Participants and Subjects [ACM] for further discussion of issues around
+ethical conduct of research.
 
 
 # Participation and Accessibility
