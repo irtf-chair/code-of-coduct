@@ -187,18 +187,23 @@ misrepresentation of authorship.
 
 # Participation and Accessibility
 
-To encourage broad participation, reflecting this diversity, participants
-should consider accessibility and access-related concerns when organising
-IRTF research group meetings, workshops, conferences, and other events.
-The IRTF will work to support this by providing travel grants, fee waivers,
-childcare, and other support to allow students, early career researchers,
-members of under-represented groups, and others who might otherwise be
-unable to participate.
 
-Participants should work to make meeting materials available online in a
-timely manner, and to ensure that such materials are broadly accessible.
-Participants should work to enable remote participation in IRTF events
-to support those who cannot attend in person.
+To encourage broad participation, and support the goal of providing an
+open and inclusive forum that encourages diversity of ideas and diversity
+of participation, IRTF participants
+should consider accessibility and access-related concerns when organising
+research group meetings, workshops, conferences, and other IRTF events to
+ensure such events are broadly accessible to all that wish to participate.
+
+Participants should work to enable remote participation in IRTF events to
+support those who cannot attend in person, and should aim to make materials
+available online in a timely and broadly accessible manner.
+
+The IRTF will work to provide travel grants, fee waivers, childcare, and
+other support to help participation by students, early career researchers,
+members of under-represented groups, those with disabilities, and others
+who might otherwise be unable to participate. Participants are encouraged
+to make use of these opportunities.
 
 
 # Rationale
