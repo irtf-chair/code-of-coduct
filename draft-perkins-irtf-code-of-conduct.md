@@ -58,8 +58,16 @@ informative:
 
 --- abstract
 
-This memo describes the code of conduct for participation in the
+This document describes the code of conduct for participants in the
 Internet Research Task Force (IRTF).
+
+The IRTF recognises that research is most effective when done in an open
+and inclusive forum that encourages diversity of ideas and diversity of
+participation.
+Through this code of conduct, the IRTF will continue to strive to create
+and maintain an environment that encourages broad participation, and one
+in which people from different backgrounds are treated with dignity,
+decency, and respect
 
 
 --- middle
