@@ -260,7 +260,7 @@ to make use of these opportunities.
 # Rationale
 
 The IRTF is not the IETF. While the two organisations work closely
-together, and often co-locate meeting and other activities, they have
+together, and often co-locate meetings and other activities, they have
 different goals and work in different ways.
 
 The IETF is a consensus-driven standards developing organisation, where
