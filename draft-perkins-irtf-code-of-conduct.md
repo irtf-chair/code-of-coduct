@@ -98,14 +98,13 @@ to the evolution and deployment of the Internet protocols, applications,
 architecture and technology, and to understanding the development of the
 Internet in all its diversity and for all its users, considering both
 technical, economic, and societal challenges of such development.
-
 The IRTF focuses on longer term research issues related to the Internet
 while a parallel organisation, the Internet Engineering Task Force (IETF),
 considers the shorter term issues of engineering and standards development.
 
 The IRTF believes that research is most effective when done in an open and
 inclusive forum that encourages diversity of ideas and diversity of
-participation. The IRTF, through this code of conduct, will continue to
+participation. Through this code of conduct, the IRTF will continue to
 strive to create and maintain an environment that encourages broad
 participation, and one in which people of many different backgrounds are
 treated with dignity, decency, and respect.
