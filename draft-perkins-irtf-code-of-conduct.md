@@ -49,6 +49,8 @@ normative:
 
   RFC7154:
 
+  RFC7418:
+
   RFC7776:
 
   RFC8890:
@@ -270,7 +272,8 @@ technical standards to make the Internet work better.
 IRTF research can be more speculative, and takes a longer-term view of
 the development of the Internet without the requirements for consensus
 or near-term applicability and deployability that come from standards
-development.
+development. A further discussion of the differences between IRTF and
+IETF can be found in [RFC7418].
 
 Compared to the IETF equivalent [RFC7154], this IRTF code of conduct
 reflects those differences in emphasis between the two organisations.
