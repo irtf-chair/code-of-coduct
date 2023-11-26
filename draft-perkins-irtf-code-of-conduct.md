@@ -87,8 +87,7 @@ and inclusive forum that encourages diversity of ideas and diversity of
 participation.
 Through this code of conduct, the IRTF will continue to strive to create
 and maintain an environment that encourages broad participation, and one
-in which people from different backgrounds are treated with dignity,
-decency, and respect
+in which people are treated with dignity, decency, and respect
 
 
 --- middle
@@ -101,19 +100,19 @@ architecture and technology, and to understanding the development of the
 Internet in all its diversity and for all its users, considering both
 technical, economic, and societal challenges of such development.
 The IRTF focuses on longer term research issues related to the Internet
-while a parallel organisation, the Internet Engineering Task Force (IETF),
-considers the shorter term issues of engineering and standards development.
+while the parallel organisation, the Internet Engineering Task Force (IETF),
+focuses on the shorter term issues of engineering and standards making.
 
-The IRTF believes that research is most effective when done in an open and
-inclusive forum that encourages diversity of ideas and diversity of
-participation. Through this code of conduct, the IRTF will continue to
-strive to create and maintain an environment that encourages broad
-participation, and one in which people of many different backgrounds are
-treated with dignity, decency, and respect.
+The IRTF believes that research is most effective when done in an open
+and inclusive forum that encourages diversity of ideas and diversity of
+participation.
+Through this code of conduct, the IRTF will continue to strive to create
+and maintain an environment that encourages broad participation, and one
+in which people are treated with dignity, decency, and respect.
 
 # Conduct
 
-The IRTF is committed to providing a safe and enjoyable experience for all
+The IRTF is committed to providing a safe and equitable experience for all
 participants. Those participating in the IRTF must extend respect and
 courtesy to others at all times.
 
@@ -124,7 +123,7 @@ ancestry, disability, medical condition, sexual orientation, or gender identity 
 
 Examples of harassment
 include, but are not limited to, the use of offensive language or sexual
-imagery in public presentations and displays, degrading verbal comments,
+imagery, degrading verbal comments,
 deliberate intimidation, stalking, harassing photography or recording,
 inappropriate physical contact, and unwelcome sexual attention.
 
@@ -149,9 +148,16 @@ Harassment or disruption due to the
 posting of messages that are inflammatory, abusive, or otherwise
 inappropriate, or the repeated posting of off-topic material, on these lists
 and discussion forums will not be tolerated.
-Moderators will respond to harassing or disruptive behaviour with a warning
-in the first instance, but thereafter may temporarily or permanently
-suspend posting rights for any individual engaging in such behaviour.
+Moderators will respond to harassing or disruptive behaviour with either a
+warning, or temporarily or permanently suspend posting rights, based on the
+seriousness and history of the behaviour.
+
+If you have concerns about, or wish to appeal against, a moderation decision
+then you should raise your concern with the IRTF Chair or the Ombudsteam. If
+the concern relates to moderation decisions taken by the IRTF Chair, then it
+should raised with the Chair of the Internet Architecture Board or with the
+Ombudsteam. These parties will review the situation and may reverse the
+moderation decision or take other action as appropriate.
 
 # Language and Imagery
 
