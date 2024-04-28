@@ -317,8 +317,9 @@ The influence of the code of conduct and other policies of ICANN, the USENIX
 Association, and the Association for Computing Machinery is also gratefully
 acknowledged.
 
-Thanks to Carsten Bormann, Jane Coffin, Jay Daley, Lars Eggert, Stephen
-Farrell, Dirk Kutscher, Marie-Jose Montpetit, Melinda Shore, Niels ten
-Oever, and the other members of the Internet Research Steering Group (IRSG)
-for their feedback on this document.
+Thanks to Carsten Bormann, Ignacio Castro, Jane Coffin, Jay Daley, Lars
+Eggert, Reese Enghardt, Stephen Farrell, Simone Ferlin, Mallory Knodel,
+Dirk Kutscher, Allison Mankin, Marie-Jose Montpetit, Pete Resnick, Melinda
+Shore, Niels ten Oever, Brian Trammell, and other members of the Internet
+Research Steering Group (IRSG) for their feedback on this code of conduct.
 
