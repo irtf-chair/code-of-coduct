@@ -47,6 +47,11 @@ normative:
     target: https://irtf.org/policies/inclusive-language.html
     date: May, 2021
 
+  RESTRICTING:
+    title: Statement on Restricting Access to IETF IT Systems
+    target: https://datatracker.ietf.org/doc/statement-iesg-statement-on-restricting-access-to-ietf-it-systems-20221031/
+    date: October, 2022
+
   RFC7154:
 
   RFC7418:
@@ -158,6 +163,14 @@ the concern relates to moderation decisions taken by the IRTF Chair, then it
 should raised with the Chair of the Internet Architecture Board or with the
 Ombudsteam. These parties will review the situation and may reverse the
 moderation decision or take other action as appropriate.
+
+In cases where the advice from legal counsel is to restrict an individual
+from using IRTF systems and/or from participating in IRTF meetings, the
+IRTF Chair will follow the principles outlined in the Statement on
+Restricting Access [RESTRICTING]. Due to the potential impact on the
+standards process, due to shared infrastructure and joint meetings between
+IRTF and IETF, any such action by the IRTF Chair will only be taken in
+consultation with the IESG.
 
 # Language and Imagery
 
