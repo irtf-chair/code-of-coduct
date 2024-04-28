@@ -349,7 +349,8 @@ acknowledged.
 
 Thanks to Carsten Bormann, Vigdis Bronder, Ignacio Castro, Jane Coffin, Jay Daley,
 Lars Eggert, Reese Enghardt, Stephen Farrell, Simone Ferlin, Mallory Knodel,
-Dirk Kutscher, Allison Mankin, Marie-Jose Montpetit, Pete Resnick, Melinda
-Shore, Niels ten Oever, Brian Trammell, and other members of the Internet
-Research Steering Group (IRSG) for their feedback on this code of conduct.
+Dirk Kutscher, Allison Mankin, Marie-Jose Montpetit, Dave Oran, Pete Resnick,
+Melinda Shore, Niels ten Oever, Brian Trammell, and other members of the
+Internet Research Steering Group (IRSG) for their feedback on this code of
+conduct.
 
