@@ -52,6 +52,8 @@ normative:
     target: https://datatracker.ietf.org/doc/statement-iesg-statement-on-restricting-access-to-ietf-it-systems-20221031/
     date: October, 2022
 
+  RFC2014:
+
   RFC7154:
 
   RFC7418:
@@ -270,7 +272,20 @@ members of under-represented groups, those with disabilities, and others
 who might otherwise be unable to participate. Participants are encouraged
 to make use of these opportunities.
 
-In exceptional cases, where the advice from legal counsel is to restrict an
+IRTF Research Groups may have open or limited membership [RFC2014].
+Limited membership may be advantageous to the formation of the long term
+working relationships that are critical to successful collaborative research.
+However, limited membership must be used with care and sensitivity to avoid
+unnecessary fragmentation of the work of the research community.
+The charter of each Research Group defines its membership policy (whether
+open or limited), and the procedure to apply for membership in the group.
+While limited membership is permitted, it is in no way encouraged or required.
+Research Group Chairs must enforce the membership policy of their group in
+a fair and transparant manner, providing clear rationale for their decisions.
+Concerns about administration of the membership policy for a research group
+may be raised with the IRTF Chair.
+
+In exceptional cases, advice from legal counsel may be to restrict an
 individual from using IRTF systems and/or from participating in IRTF
 meetings. In such cases, the IRTF Chair will act following the principles outlined in the
 Statement on Restricting Access [RESTRICTING]. Due to the potential impact
