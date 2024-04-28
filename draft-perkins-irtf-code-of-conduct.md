@@ -165,14 +165,6 @@ should raised with the Chair of the Internet Architecture Board or with the
 Ombudsteam. These parties will review the situation and may reverse the
 moderation decision or take other action as appropriate.
 
-In cases where the advice from legal counsel is to restrict an individual
-from using IRTF systems and/or from participating in IRTF meetings, the
-IRTF Chair will follow the principles outlined in the Statement on
-Restricting Access [RESTRICTING]. Due to the potential impact on the
-standards process, due to shared infrastructure and joint meetings between
-IRTF and IETF, any such action by the IRTF Chair will only be taken in
-consultation with the IESG.
-
 # Language and Imagery
 
 English is the de facto language in which the IRTF works, but is not the
@@ -277,6 +269,14 @@ other support to help participation by students, early career researchers,
 members of under-represented groups, those with disabilities, and others
 who might otherwise be unable to participate. Participants are encouraged
 to make use of these opportunities.
+
+In exceptional cases, where the advice from legal counsel is to restrict an
+individual from using IRTF systems and/or from participating in IRTF
+meetings, the IRTF Chair will follow the principles outlined in the
+Statement on Restricting Access [RESTRICTING]. Due to the potential impact
+on the standards process, arising from the use shared infrastructure and
+joint meetings between IRTF and IETF, any such action by the IRTF Chair
+will only be taken in consultation with the IESG.
 
 
 # Rationale
