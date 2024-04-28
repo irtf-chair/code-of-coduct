@@ -138,9 +138,9 @@ Harassment will not be tolerated in IRTF meetings and events, or on mailing
 lists and other online forums. Participants must follow the IETF
 anti-harassment policy which also applies to the IRTF [ANTI-HARASSMENT].
 
-If you believe you have been harassed, notice that someone else is being
+Participants who believe they have been harassed, notice that someone else is being
 harassed, or have any other concerns relating to potential harassment or
-conduct, you are encouraged to raise your
+conduct, are encouraged to raise their
 concern with the relevant Research Group Chair or the IRTF Chair, or with the
 Ombudsteam [OMBUDSTEAM] who work on an independent and confidential basis.
 All such concerns will be seriously considered, and action will be taken as
@@ -160,8 +160,8 @@ Moderators will respond to harassing or disruptive behaviour with either a
 warning, or temporarily or permanently suspend posting rights, based on the
 seriousness and history of the behaviour.
 
-If you have concerns about, or wish to appeal against, a moderation decision
-then you should raise your concern with the IRTF Chair or the Ombudsteam. If
+Participants that have concerns about, or wish to appeal against, a moderation decision
+should raise their concern with the IRTF Chair or the Ombudsteam. If
 the concern relates to moderation decisions taken by the IRTF Chair, then it
 should raised with the Chair of the Internet Architecture Board or with the
 Ombudsteam. These parties will review the situation and may reverse the
@@ -282,8 +282,9 @@ open or limited), and the procedure to apply for membership in the group.
 While limited membership is permitted, it is in no way encouraged or required.
 Research Group Chairs must enforce the membership policy of their group in
 a fair and transparent manner, providing clear rationale for their decisions.
-Concerns about administration of the membership policy for a research group
-may be raised with the IRTF Chair.
+Participants with concerns about administration of the membership policy
+for a research group, or who wish to appeal a membership decision, should
+raise their concern with the IRTF Chair.
 
 In exceptional cases, advice from legal counsel may be to restrict an
 individual from using IRTF systems and/or from participating in IRTF
