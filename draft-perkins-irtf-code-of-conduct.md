@@ -281,7 +281,7 @@ The charter of each Research Group defines its membership policy (whether
 open or limited), and the procedure to apply for membership in the group.
 While limited membership is permitted, it is in no way encouraged or required.
 Research Group Chairs must enforce the membership policy of their group in
-a fair and transparant manner, providing clear rationale for their decisions.
+a fair and transparent manner, providing clear rationale for their decisions.
 Concerns about administration of the membership policy for a research group
 may be raised with the IRTF Chair.
 
