@@ -4,8 +4,8 @@
 
 IRTF                                                       C. S. Perkins
 Internet-Draft                                     University of Glasgow
-Intended status: Informational                              4 March 2024
-Expires: 5 September 2024
+Intended status: Informational                             28 April 2024
+Expires: 30 October 2024
 
 
                           IRTF Code of Conduct
@@ -50,7 +50,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 5 September 2024.
+   This Internet-Draft will expire on 30 October 2024.
 
 Copyright Notice
 
@@ -150,6 +150,14 @@ Table of Contents
    Internet Architecture Board or with the Ombudsteam.  These parties
    will review the situation and may reverse the moderation decision or
    take other action as appropriate.
+
+   In cases where the advice from legal counsel is to restrict an
+   individual from using IRTF systems and/or from participating in IRTF
+   meetings, the IRTF Chair will follow the principles outlined in the
+   Statement on Restricting Access [RESTRICTING].  Due to the potential
+   impact on the standards process, due to shared infrastructure and
+   joint meetings between IRTF and IETF, any such action by the IRTF
+   Chair will only be taken in consultation with the IESG.
 
 3.  Language and Imagery
 
@@ -318,6 +326,12 @@ Table of Contents
               "Ombudsteam", November 2013,
               <https://www.ietf.org/contact/ombudsteam/>.
 
+   [RESTRICTING]
+              "Statement on Restricting Access to IETF IT Systems",
+              October 2022, <https://datatracker.ietf.org/doc/statement-
+              iesg-statement-on-restricting-access-to-ietf-it-systems-
+              20221031/>.
+
    [RFC7154]  Moonesamy, S., Ed., "IETF Guidelines for Conduct", BCP 54,
               RFC 7154, DOI 10.17487/RFC7154, March 2014,
               <https://www.rfc-editor.org/rfc/rfc7154>.
@@ -365,10 +379,12 @@ Acknowledgments
    of ICANN, the USENIX Association, and the Association for Computing
    Machinery is also gratefully acknowledged.
 
-   Thanks to Carsten Bormann, Jane Coffin, Jay Daley, Lars Eggert,
-   Stephen Farrell, Dirk Kutscher, Marie-Jose Montpetit, Melinda Shore,
-   Niels ten Oever, and the other members of the Internet Research
-   Steering Group (IRSG) for their feedback on this document.
+   Thanks to Carsten Bormann, Ignacio Castro, Jane Coffin, Jay Daley,
+   Lars Eggert, Reese Enghardt, Stephen Farrell, Simone Ferlin, Mallory
+   Knodel, Dirk Kutscher, Allison Mankin, Marie-Jose Montpetit, Pete
+   Resnick, Melinda Shore, Niels ten Oever, Brian Trammell, and other
+   members of the Internet Research Steering Group (IRSG) for their
+   feedback on this code of conduct.
 
 Author's Address
 
