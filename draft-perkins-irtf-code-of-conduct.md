@@ -272,7 +272,7 @@ to make use of these opportunities.
 
 In exceptional cases, where the advice from legal counsel is to restrict an
 individual from using IRTF systems and/or from participating in IRTF
-meetings, the IRTF Chair will follow the principles outlined in the
+meetings. In such cases, the IRTF Chair will act following the principles outlined in the
 Statement on Restricting Access [RESTRICTING]. Due to the potential impact
 on the standards process, arising from the use shared infrastructure and
 joint meetings between IRTF and IETF, any such action by the IRTF Chair
