@@ -137,8 +137,9 @@ lists and other online forums. Participants must follow the IETF
 anti-harassment policy which also applies to the IRTF [ANTI-HARASSMENT].
 
 If you believe you have been harassed, notice that someone else is being
-harassed, or have any other concerns, you are encouraged to raise your
-concern with the relevant Research Group Chair, the IRTF Chair, or the
+harassed, or have any other concerns relating to potential harassment or
+conduct, you are encouraged to raise your
+concern with the relevant Research Group Chair or the IRTF Chair, or with the
 Ombudsteam [OMBUDSTEAM] who work on an independent and confidential basis.
 All such concerns will be seriously considered, and action will be taken as
 appropriate, up to and including exclusion of the offending party from IRTF
