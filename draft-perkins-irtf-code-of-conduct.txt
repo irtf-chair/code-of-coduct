@@ -4,8 +4,8 @@
 
 IRTF                                                       C. S. Perkins
 Internet-Draft                                     University of Glasgow
-Intended status: Informational                             28 April 2024
-Expires: 30 October 2024
+Intended status: Informational                                2 May 2024
+Expires: 3 November 2024
 
 
                           IRTF Code of Conduct
@@ -50,7 +50,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 30 October 2024.
+   This Internet-Draft will expire on 3 November 2024.
 
 Copyright Notice
 
@@ -145,12 +145,11 @@ Table of Contents
    history of the behaviour.
 
    Participants that have concerns about, or wish to appeal against, a
-   moderation decision should raise their concern with the IRTF Chair or
-   the Ombudsteam.  If the concern relates to moderation decisions taken
-   by the IRTF Chair, then it should raised with the Chair of the
-   Internet Architecture Board or with the Ombudsteam.  These parties
-   will review the situation and may reverse the moderation decision or
-   take other action as appropriate.
+   moderation decision should raise their concern with the IRTF Chair.
+   If the concern relates to moderation decisions taken by the IRTF
+   Chair, then it should be raised with the Chair of the Internet
+   Architecture Board.  These parties will review the situation and may
+   reverse the moderation decision or take other action as appropriate.
 
 3.  Language and Imagery
 
@@ -234,8 +233,8 @@ Table of Contents
    Review Board, Research Ethics Committee, or similar, prior to
    conducting research that might raise ethical concerns.
 
-   Participants are refered to the guidance in the Menlo Report [MENLO],
-   the Belmont Report [BELMONT], and the ACM Policy on Research
+   Participants are referred to the guidance in the Menlo Report
+   [MENLO], the Belmont Report [BELMONT], and the ACM Policy on Research
    Involving Human Participants and Subjects [ACM] for further
    discussion of issues around ethical conduct of research.
 
