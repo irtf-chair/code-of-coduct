@@ -161,10 +161,10 @@ warning, or temporarily or permanently suspend posting rights, based on the
 seriousness and history of the behaviour.
 
 Participants that have concerns about, or wish to appeal against, a moderation decision
-should raise their concern with the IRTF Chair or the Ombudsteam. If
+should raise their concern with the IRTF Chair. If
 the concern relates to moderation decisions taken by the IRTF Chair, then it
-should be raised with the Chair of the Internet Architecture Board or with the
-Ombudsteam. These parties will review the situation and may reverse the
+should be raised with the Chair of the Internet Architecture Board.
+These parties will review the situation and may reverse the
 moderation decision or take other action as appropriate.
 
 # Language and Imagery
