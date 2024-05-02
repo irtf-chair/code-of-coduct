@@ -163,7 +163,7 @@ seriousness and history of the behaviour.
 Participants that have concerns about, or wish to appeal against, a moderation decision
 should raise their concern with the IRTF Chair or the Ombudsteam. If
 the concern relates to moderation decisions taken by the IRTF Chair, then it
-should raised with the Chair of the Internet Architecture Board or with the
+should be raised with the Chair of the Internet Architecture Board or with the
 Ombudsteam. These parties will review the situation and may reverse the
 moderation decision or take other action as appropriate.
 
@@ -246,7 +246,7 @@ Participants should consult with their organisation's Institutional Review
 Board, Research Ethics Committee, or similar, prior to conducting research
 that might raise ethical concerns.
 
-Participants are refered to the guidance in the Menlo Report [MENLO], the
+Participants are referred to the guidance in the Menlo Report [MENLO], the
 Belmont Report [BELMONT], and the ACM Policy on Research Involving Human
 Participants and Subjects [ACM] for further discussion of issues around
 ethical conduct of research.
