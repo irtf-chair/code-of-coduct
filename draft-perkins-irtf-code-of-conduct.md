@@ -157,8 +157,9 @@ posting of messages that are inflammatory, abusive, or otherwise
 inappropriate, or the repeated posting of off-topic material, on these lists
 and discussion forums will not be tolerated.
 Moderators will respond to harassing or disruptive behaviour with either a
-warning, or temporarily or permanently suspend posting rights, based on the
-seriousness and history of the behaviour.
+warning, by temporarily suspending posting rights, or they may, after consultation
+with the IRTF Chair, permanently suspend posting rights for an individual,
+based on the seriousness and history of the behaviour.
 
 Participants that have concerns about, or wish to appeal against, a moderation decision
 should raise their concern with the IRTF Chair. If
