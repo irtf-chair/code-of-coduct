@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-06-13T00:47:49.146201+00:00",
+  "timestamp": "2024-06-16T00:52:51.367036+00:00",
   "repo": "irtf-chair/code-of-coduct",
   "labels": [
     {
@@ -49,7 +49,24 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 2,
+      "id": "I_kwDOKKIeBM6MI4v8",
+      "title": "Is ANRW in scope? ",
+      "url": "https://github.com/irtf-chair/code-of-coduct/issues/2",
+      "state": "OPEN",
+      "author": "dhruvdhody",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "and If yes, should it be explicitly mentioned?",
+      "createdAt": "2024-06-13T13:19:57Z",
+      "updatedAt": "2024-06-13T13:20:52Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
   "pulls": [
     {
       "number": 1,
@@ -92,6 +109,32 @@
           "comments": []
         }
       ]
+    },
+    {
+      "number": 3,
+      "id": "PR_kwDOKKIeBM5yXVta",
+      "title": "Editorial changes",
+      "url": "https://github.com/irtf-chair/code-of-coduct/pull/3",
+      "state": "OPEN",
+      "author": "dhruvdhody",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2024-06-13T13:27:31Z",
+      "updatedAt": "2024-06-13T13:27:32Z",
+      "baseRepository": "irtf-chair/code-of-coduct",
+      "baseRefName": "main",
+      "baseRefOid": "860deb92c81801476514c9926ed1ebf1ef99b5d7",
+      "headRepository": "dhruvdhody/code-of-coduct",
+      "headRefName": "main",
+      "headRefOid": "540e8e85fc260783d72d0a074cdd0b952fded20f",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
     }
   ]
 }
