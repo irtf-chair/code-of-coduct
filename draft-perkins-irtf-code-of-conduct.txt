@@ -23,6 +23,9 @@ Abstract
    encourages broad participation, and one in which people are treated
    with dignity, decency, and respect
 
+   This document is a product of the Internet Research Steering Group
+   (IRSG).
+
 About This Document
 
    This note is to be removed before publishing as an RFC.
@@ -99,6 +102,10 @@ Table of Contents
    encourages broad participation, and one in which people are treated
    with dignity, decency, and respect.
 
+   This document represents the consensus of the Internet Research
+   Steering Group (IRSG).  It is not an IETF product and is not a
+   standard.
+
 2.  Conduct
 
    The IRTF is committed to providing a safe and equitable experience
@@ -117,10 +124,10 @@ Table of Contents
    recording, inappropriate physical contact, and unwelcome sexual
    attention.
 
-   Harassment will not be tolerated in IRTF meetings, events, mailing
-   lists, or other online forums.  Participants must follow the IETF
-   anti-harassment policy which also applies to the IRTF
-   [ANTI-HARASSMENT].
+   Harassment will not be tolerated in IRTF research group meetings,
+   open meetings, conferences, workshops, other events, mailing lists,
+   or other online forums.  Participants must follow the IETF anti-
+   harassment policy which also applies to the IRTF [ANTI-HARASSMENT].
 
    Participants who believe they have been harassed, notice that someone
    else is being harassed, or have any other concerns relating to
@@ -173,12 +180,12 @@ Table of Contents
 
    Participants should ensure that language and imagery used in IRTF
    documents, presentations, mailing lists, research group meetings,
-   conferences, workshops, and other events, are respectful and
-   inclusive.  Effective research uses terminology that is clear,
-   precise, and widely accessible to readers from varying backgrounds
-   and cultures.  Participants are encouraged to follow the guidance on
-   inclusive language in [NISTIR8366] when making contributions to the
-   IRTF [INCLUSIVE].
+   open meetings, conferences, workshops, and other events, are
+   respectful and inclusive.  Effective research uses terminology that
+   is clear, precise, and widely accessible to readers from varying
+   backgrounds and cultures.  Participants are encouraged to follow the
+   guidance on inclusive language in [NISTIR8366] when making
+   contributions to the IRTF [INCLUSIVE].
 
 4.  Academic Integrity
 
@@ -245,9 +252,9 @@ Table of Contents
    an open and inclusive forum that encourages diversity of ideas and
    diversity of participation, IRTF participants should consider
    accessibility and access-related concerns when organising research
-   group meetings, workshops, conferences, and other IRTF events to
-   ensure such events are broadly accessible to all who wish to
-   participate.
+   group meetings, open meetings, conferences, workshops, and other
+   events to ensure such events are broadly accessible to all who wish
+   to participate.
 
    Participants should work to enable remote participation in IRTF
    events to support those who cannot attend in person, and should aim
@@ -279,7 +286,8 @@ Table of Contents
 
    In exceptional cases, advice from legal counsel may be to restrict an
    individual from using IRTF systems and/or from participating in IRTF
-   meetings.  In such cases, the IRTF Chair will act following the
+   research group meetings, open meetings, conferences, workshops, and
+   other events.  In such cases, the IRTF Chair will act following the
    principles outlined in the Statement on Restricting Access
    [RESTRICTING].  Due to the potential impact on the standards process,
    arising from the use of shared infrastructure and joint meetings
@@ -402,11 +410,12 @@ Acknowledgments
    Machinery is also gratefully acknowledged.
 
    Thanks to Carsten Bormann, Vigdis Bronder, Ignacio Castro, Jane
-   Coffin, Jay Daley, Lars Eggert, Reese Enghardt, Stephen Farrell,
-   Simone Ferlin, Mallory Knodel, Dirk Kutscher, Allison Mankin, Marie-
-   Jose Montpetit, Dave Oran, Pete Resnick, Melinda Shore, Niels ten
-   Oever, Brian Trammell, and other members of the Internet Research
-   Steering Group (IRSG) for their feedback on this code of conduct.
+   Coffin, Jay Daley, Dhruv Dhody, Lars Eggert, Reese Enghardt, Stephen
+   Farrell, Simone Ferlin, Mallory Knodel, Dirk Kutscher, Allison
+   Mankin, Marie-Jose Montpetit, Dave Oran, Pete Resnick, Melinda Shore,
+   Niels ten Oever, Brian Trammell, and other members of the Internet
+   Research Steering Group (IRSG) for their feedback on this code of
+   conduct.
 
 Author's Address
 
