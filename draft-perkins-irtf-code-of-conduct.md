@@ -180,8 +180,8 @@ native language of many IRTF participants. All participants, particularly
 those with English as a first language, should attempt to accommodate the
 needs of others by communicating clearly.
 Participants are reminded that reading, writing, and conversing in a
-language, where one is not a native speaker may be difficult, and treating those
-doing so with grace if they do so imperfectly.
+language where one is not a native speaker may be difficult, and to
+treat those doing so with grace if they do so imperfectly.
 
 Participants should aim to speak slowly and clearly in presentations and
 discussions, and should strive to make presentations and other materials
