@@ -96,6 +96,7 @@ Through this code of conduct, the IRTF will continue to strive to create
 and maintain an environment that encourages broad participation, and one
 in which people are treated with dignity, decency, and respect
 
+This document is a product of the Internet Research Steering Group (IRSG).
 
 --- middle
 
@@ -116,6 +117,9 @@ participation.
 Through this code of conduct, the IRTF will continue to strive to create
 and maintain an environment that encourages broad participation, and one
 in which people are treated with dignity, decency, and respect.
+
+This document represents the consensus of the Internet Research Steering
+Group (IRSG).  It is not an IETF product and is not a standard.
 
 # Conduct
 
@@ -160,7 +164,6 @@ Moderators will respond to harassing or disruptive behaviour with either a
 warning, by temporarily suspending posting rights, or after consultation
 with the IRTF Chair by permanently suspending posting rights for an individual,
 based on the seriousness and history of the behaviour.
-
 
 Participants that have concerns about, or wish to appeal against, a moderation decision
 should raise their concern with the IRTF Chair. If
