@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-07-07T00:54:05.752064+00:00",
+  "timestamp": "2024-07-09T00:50:19.739344+00:00",
   "repo": "irtf-chair/code-of-coduct",
   "labels": [
     {
@@ -55,16 +55,24 @@
       "id": "I_kwDOKKIeBM6MI4v8",
       "title": "Is ANRW in scope? ",
       "url": "https://github.com/irtf-chair/code-of-coduct/issues/2",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "dhruvdhody",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "and If yes, should it be explicitly mentioned?",
       "createdAt": "2024-06-13T13:19:57Z",
-      "updatedAt": "2024-06-13T13:20:52Z",
-      "closedAt": null,
-      "comments": []
+      "updatedAt": "2024-07-07T19:26:59Z",
+      "closedAt": "2024-07-07T19:26:59Z",
+      "comments": [
+        {
+          "author": "csperkins",
+          "authorAssociation": "CONTRIBUTOR",
+          "body": "I changed the wording to consistently say \"research group meetings, open meetings, conferences, workshops, other events\" to make it clear that workshops, such as the ANRW, are in scope. I'd prefer to say \"workshop\" rather than mention ANRW specifically so this generalises to other workshops.",
+          "createdAt": "2024-07-07T19:24:23Z",
+          "updatedAt": "2024-07-07T19:24:23Z"
+        }
+      ]
     }
   ],
   "pulls": [
@@ -115,24 +123,26 @@
       "id": "PR_kwDOKKIeBM5yXVta",
       "title": "Editorial changes",
       "url": "https://github.com/irtf-chair/code-of-coduct/pull/3",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "dhruvdhody",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2024-06-13T13:27:31Z",
-      "updatedAt": "2024-06-13T13:27:32Z",
+      "updatedAt": "2024-07-07T19:12:44Z",
       "baseRepository": "irtf-chair/code-of-coduct",
       "baseRefName": "main",
       "baseRefOid": "860deb92c81801476514c9926ed1ebf1ef99b5d7",
       "headRepository": "dhruvdhody/code-of-coduct",
       "headRefName": "main",
       "headRefOid": "540e8e85fc260783d72d0a074cdd0b952fded20f",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2024-07-07T19:12:44Z",
+      "mergedAt": "2024-07-07T19:12:43Z",
+      "mergedBy": "csperkins",
+      "mergeCommit": {
+        "oid": "6b72f02acaba88d3104fa8e97f77755aae7ffeda"
+      },
       "comments": [],
       "reviews": []
     }
