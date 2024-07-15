@@ -94,7 +94,7 @@ and inclusive forum that encourages diversity of ideas and diversity of
 participation.
 Through this code of conduct, the IRTF will continue to strive to create
 and maintain an environment that encourages broad participation, and one
-in which people are treated with dignity, decency, and respect
+in which people are treated with dignity, decency, and respect.
 
 This document is a product of the Internet Research Steering Group (IRSG).
 
@@ -156,7 +156,7 @@ The IRTF operates and makes use of a number of mailing lists and other
 online discussion forums. At the time of this writing, Research Group
 chairs act as moderators for such forums used by their research groups
 and the IRTF Chair moderates IRTF-wide lists and discussion forums.
-Other moderators may be appointed in future.
+Other moderators may be appointed in the future.
 Harassment or disruption due to the
 posting of messages that are inflammatory, abusive, or otherwise
 inappropriate, or the repeated posting of off-topic material, on these lists
