@@ -4,8 +4,8 @@
 
 IRTF                                                       C. S. Perkins
 Internet-Draft                                     University of Glasgow
-Intended status: Informational                               7 July 2024
-Expires: 8 January 2025
+Intended status: Informational                              15 July 2024
+Expires: 16 January 2025
 
 
                           IRTF Code of Conduct
@@ -21,7 +21,7 @@ Abstract
    diversity of participation.  Through this code of conduct, the IRTF
    will continue to strive to create and maintain an environment that
    encourages broad participation, and one in which people are treated
-   with dignity, decency, and respect
+   with dignity, decency, and respect.
 
    This document is a product of the Internet Research Steering Group
    (IRSG).
@@ -53,7 +53,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 8 January 2025.
+   This Internet-Draft will expire on 16 January 2025.
 
 Copyright Notice
 
@@ -142,7 +142,7 @@ Table of Contents
    other online discussion forums.  At the time of this writing,
    Research Group chairs act as moderators for such forums used by their
    research groups and the IRTF Chair moderates IRTF-wide lists and
-   discussion forums.  Other moderators may be appointed in future.
+   discussion forums.  Other moderators may be appointed in the future.
    Harassment or disruption due to the posting of messages that are
    inflammatory, abusive, or otherwise inappropriate, or the repeated
    posting of off-topic material, on these lists and discussion forums
@@ -412,10 +412,10 @@ Acknowledgments
    Thanks to Carsten Bormann, Vigdis Bronder, Ignacio Castro, Jane
    Coffin, Jay Daley, Dhruv Dhody, Lars Eggert, Reese Enghardt, Stephen
    Farrell, Simone Ferlin, Mallory Knodel, Dirk Kutscher, Allison
-   Mankin, Marie-Jose Montpetit, Dave Oran, Pete Resnick, Melinda Shore,
-   Niels ten Oever, Brian Trammell, and other members of the Internet
-   Research Steering Group (IRSG) for their feedback on this code of
-   conduct.
+   Mankin, Marie-Jose Montpetit, Dave Oran, Pete Resnick, Eve Schooler,
+   Melinda Shore, Niels ten Oever, Brian Trammell, and other members of
+   the Internet Research Steering Group (IRSG) for their feedback on
+   this code of conduct.
 
 Author's Address
 
