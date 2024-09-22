@@ -274,7 +274,8 @@ of authors.
 Participants must ensure that their research, in particular research that
 involves human subjects or personal data, is conducted ethically and with
 respect for persons, in careful consideration of the risks and benefits
-of the work, ensuring that those who bear the risk also gain some benefit,
+of the work,
+taking care to ensure that those who bear the risk also gain some benefit,
 and with respect for the law and public interest.
 
 Participants should consult with their organisation's Institutional Review
