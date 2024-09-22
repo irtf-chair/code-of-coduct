@@ -121,6 +121,27 @@ in which people are treated with dignity, decency, and respect.
 This document represents the consensus of the Internet Research Steering
 Group (IRSG).  It is not an IETF product and is not a standard.
 
+# Rationale
+
+The IRTF is not the IETF. While the two organisations work closely
+together, and often co-locate meetings and other activities, they have
+different goals and work in different ways.
+
+The IETF is a consensus-driven standards-developing organisation, where
+participants use their best engineering judgment to find the best solution
+for the whole Internet, as it stands today, and to develop the best
+technical standards to make the Internet work better.
+IRTF research can be more speculative, and takes a longer-term view of
+the development of the Internet without the requirements for consensus
+or near-term applicability and deployability that come from standards
+development. A further discussion of the differences between IRTF and
+IETF can be found in [RFC7418].
+
+Compared to the IETF equivalent [RFC7154], this IRTF code of conduct
+reflects those differences in emphasis between the two organisations.
+
+
+
 # Conduct
 
 The IRTF is committed to providing a safe and equitable experience for all
@@ -302,27 +323,6 @@ joint meetings between IRTF and IETF, any such action by the IRTF Chair
 will only be taken in consultation with the IESG.
 
 
-# Rationale
-
-The IRTF is not the IETF. While the two organisations work closely
-together, and often co-locate meetings and other activities, they have
-different goals and work in different ways.
-
-The IETF is a consensus-driven standards-developing organisation, where
-participants use their best engineering judgment to find the best solution
-for the whole Internet, as it stands today, and to develop the best
-technical standards to make the Internet work better.
-IRTF research can be more speculative, and takes a longer-term view of
-the development of the Internet without the requirements for consensus
-or near-term applicability and deployability that come from standards
-development. A further discussion of the differences between IRTF and
-IETF can be found in [RFC7418].
-
-Compared to the IETF equivalent [RFC7154], this IRTF code of conduct
-reflects those differences in emphasis between the two organisations.
-
-
-
 # Security Considerations
 
 This IRTF code of conduct does not directly affect the security of the
@@ -356,7 +356,7 @@ acknowledged.
 
 Thanks to Carsten Bormann, Vigdis Bronder, Ignacio Castro, Jane Coffin, Jay Daley,
 Dhruv Dhody, Lars Eggert, Reese Enghardt, Stephen Farrell, Simone Ferlin, Mallory Knodel,
-Dirk Kutscher, Allison Mankin, Marie-Jose Montpetit, Dave Oran, Pete Resnick,
+Dirk Kutscher, Allison Mankin, Alexey Melnikov, Marie-Jose Montpetit, Dave Oran, Pete Resnick,
 Eve Schooler, Melinda Shore, Niels ten Oever, Brian Trammell, and other members of the
 Internet Research Steering Group (IRSG) for their feedback on this code of
 conduct.
