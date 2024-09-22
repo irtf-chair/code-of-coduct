@@ -174,6 +174,12 @@ All such concerns will be seriously considered, and action will be taken as
 appropriate, up to and including the exclusion of the offending party from IRTF
 activities.
 
+The IRTF sometimes organises meetings or activities that co-locate with
+events organised by others.  For example, an IRTF research group might hold
+a meeting co-located with a related academic conference. If the other event
+has an anti-harassment policy that differs from that of the IRTF, it should
+be made clear to participants which policy applies.
+
 The IRTF operates and makes use of a number of mailing lists and other
 online discussion forums. At the time of this writing, Research Group
 chairs act as moderators for such forums used by their research groups
@@ -356,8 +362,8 @@ Association, and the Association for Computing Machinery is also gratefully
 acknowledged.
 
 Thanks to Carsten Bormann, Vigdis Bronder, Ignacio Castro, Jane Coffin,
-Jay Daley, Dhruv Dhody, Lars Eggert, Reese Enghardt, Stephen Farrell,
-Simone Ferlin, Mallory Knodel, Dirk Kutscher, Allison Mankin,
+Jay Daley, Dhruv Dhody, Toerless Eckert, Lars Eggert, Reese Enghardt,
+Stephen Farrell, Simone Ferlin, Mallory Knodel, Dirk Kutscher, Allison Mankin,
 Alexey Melnikov, Marie-Jose Montpetit, Dave Oran, Pete Resnick,
 Eve Schooler, Melinda Shore, Niels ten Oever, Brian Trammell, Rich Salz,
 Paul Wouters, and other members of the Internet Research Steering Group
