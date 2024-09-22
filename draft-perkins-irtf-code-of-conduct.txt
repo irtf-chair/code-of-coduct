@@ -4,8 +4,8 @@
 
 IRTF                                                       C. S. Perkins
 Internet-Draft                                     University of Glasgow
-Intended status: Informational                              15 July 2024
-Expires: 16 January 2025
+Intended status: Informational                         22 September 2024
+Expires: 26 March 2025
 
 
                           IRTF Code of Conduct
@@ -53,7 +53,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 16 January 2025.
+   This Internet-Draft will expire on 26 March 2025.
 
 Copyright Notice
 
@@ -69,12 +69,12 @@ Copyright Notice
 Table of Contents
 
    1.  Introduction
-   2.  Conduct
-   3.  Language and Imagery
-   4.  Academic Integrity
-   5.  Research Ethics
-   6.  Participation and Accessibility
-   7.  Rationale
+   2.  Rationale
+   3.  Conduct
+   4.  Language and Imagery
+   5.  Academic Integrity
+   6.  Research Ethics
+   7.  Participation and Accessibility
    8.  Security Considerations
    9.  IANA Considerations
    10. References
@@ -106,7 +106,26 @@ Table of Contents
    Steering Group (IRSG).  It is not an IETF product and is not a
    standard.
 
-2.  Conduct
+2.  Rationale
+
+   The IRTF is not the IETF.  While the two organisations work closely
+   together, and often co-locate meetings and other activities, they
+   have different goals and work in different ways.
+
+   The IETF is a consensus-driven standards-developing organisation,
+   where participants use their best engineering judgment to find the
+   best solution for the whole Internet, as it stands today, and to
+   develop the best technical standards to make the Internet work
+   better.  IRTF research can be more speculative, and takes a longer-
+   term view of the development of the Internet without the requirements
+   for consensus or near-term applicability and deployability that come
+   from standards development.  A further discussion of the differences
+   between IRTF and IETF can be found in [RFC7418].
+
+   Compared to the IETF equivalent [RFC7154], this IRTF code of conduct
+   reflects those differences in emphasis between the two organisations.
+
+3.  Conduct
 
    The IRTF is committed to providing a safe and equitable experience
    for all participants.  Those participating in the IRTF must extend
@@ -159,7 +178,7 @@ Table of Contents
    Architecture Board.  These parties will review the situation and may
    reverse the moderation decision or take other action as appropriate.
 
-3.  Language and Imagery
+4.  Language and Imagery
 
    English is the de facto language in which the IRTF works, but is not
    the native language of many IRTF participants.  All participants,
@@ -187,7 +206,7 @@ Table of Contents
    guidance on inclusive language in [NISTIR8366] when making
    contributions to the IRTF [INCLUSIVE].
 
-4.  Academic Integrity
+5.  Academic Integrity
 
    Participants must act with respect, honesty, transparency, and
    fairness.  They should be trustworthy, aspire to objectivity, and aim
@@ -229,7 +248,7 @@ Table of Contents
    Similarly, the editors of a research group consensus document must
    not misrepresent their role as that of authors.
 
-5.  Research Ethics
+6.  Research Ethics
 
    Participants must ensure that their research, in particular research
    that involves human subjects or personal data, is conducted ethically
@@ -246,7 +265,7 @@ Table of Contents
    Involving Human Participants and Subjects [ACM] for further
    discussion of issues around ethical conduct of research.
 
-6.  Participation and Accessibility
+7.  Participation and Accessibility
 
    To encourage broad participation, and support the goal of providing
    an open and inclusive forum that encourages diversity of ideas and
@@ -293,25 +312,6 @@ Table of Contents
    arising from the use of shared infrastructure and joint meetings
    between IRTF and IETF, any such action by the IRTF Chair will only be
    taken in consultation with the IESG.
-
-7.  Rationale
-
-   The IRTF is not the IETF.  While the two organisations work closely
-   together, and often co-locate meetings and other activities, they
-   have different goals and work in different ways.
-
-   The IETF is a consensus-driven standards-developing organisation,
-   where participants use their best engineering judgment to find the
-   best solution for the whole Internet, as it stands today, and to
-   develop the best technical standards to make the Internet work
-   better.  IRTF research can be more speculative, and takes a longer-
-   term view of the development of the Internet without the requirements
-   for consensus or near-term applicability and deployability that come
-   from standards development.  A further discussion of the differences
-   between IRTF and IETF can be found in [RFC7418].
-
-   Compared to the IETF equivalent [RFC7154], this IRTF code of conduct
-   reflects those differences in emphasis between the two organisations.
 
 8.  Security Considerations
 
@@ -412,10 +412,10 @@ Acknowledgments
    Thanks to Carsten Bormann, Vigdis Bronder, Ignacio Castro, Jane
    Coffin, Jay Daley, Dhruv Dhody, Lars Eggert, Reese Enghardt, Stephen
    Farrell, Simone Ferlin, Mallory Knodel, Dirk Kutscher, Allison
-   Mankin, Marie-Jose Montpetit, Dave Oran, Pete Resnick, Eve Schooler,
-   Melinda Shore, Niels ten Oever, Brian Trammell, and other members of
-   the Internet Research Steering Group (IRSG) for their feedback on
-   this code of conduct.
+   Mankin, Alexey Melnikov, Marie-Jose Montpetit, Dave Oran, Pete
+   Resnick, Eve Schooler, Melinda Shore, Niels ten Oever, Brian
+   Trammell, and other members of the Internet Research Steering Group
+   (IRSG) for their feedback on this code of conduct.
 
 Author's Address
 
