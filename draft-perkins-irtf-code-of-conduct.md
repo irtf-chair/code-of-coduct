@@ -148,10 +148,11 @@ The IRTF is committed to providing a safe and equitable experience for all
 participants. Those participating in the IRTF must extend respect and
 courtesy to others at all times.
 
-Harassment is unwelcome, hostile, or intimidating behaviour, in particular
-speech or behaviour that is sexually aggressive or that intimidates based
-on attributes such as education, race, gender, religion, age, colour, national origin,
-ancestry, disability, medical condition, sexual orientation, or gender identity [RFC7776].
+Harassment is behaviour that is unwelcome, hostile, or intimidating.
+Harassment includes, in particular, speech or behaviour that is sexually
+aggressive or that intimidates based on attributes such as education, race,
+gender, religion, age, colour, national origin, ancestry, disability,
+medical condition, sexual orientation, or gender identity [RFC7776].
 
 Examples of harassment
 include, but are not limited to, the use of offensive language or sexual
@@ -354,10 +355,11 @@ The influence of the code of conduct and other policies of ICANN, the USENIX
 Association, and the Association for Computing Machinery is also gratefully
 acknowledged.
 
-Thanks to Carsten Bormann, Vigdis Bronder, Ignacio Castro, Jane Coffin, Jay Daley,
-Dhruv Dhody, Lars Eggert, Reese Enghardt, Stephen Farrell, Simone Ferlin, Mallory Knodel,
-Dirk Kutscher, Allison Mankin, Alexey Melnikov, Marie-Jose Montpetit, Dave Oran, Pete Resnick,
-Eve Schooler, Melinda Shore, Niels ten Oever, Brian Trammell, Rich Salz, and other members of the
-Internet Research Steering Group (IRSG) for their feedback on this code of
-conduct.
+Thanks to Carsten Bormann, Vigdis Bronder, Ignacio Castro, Jane Coffin,
+Jay Daley, Dhruv Dhody, Lars Eggert, Reese Enghardt, Stephen Farrell,
+Simone Ferlin, Mallory Knodel, Dirk Kutscher, Allison Mankin,
+Alexey Melnikov, Marie-Jose Montpetit, Dave Oran, Pete Resnick,
+Eve Schooler, Melinda Shore, Niels ten Oever, Brian Trammell, Rich Salz,
+Paul Wouters, and other members of the Internet Research Steering Group
+(IRSG) for their feedback on this code of conduct.
 
