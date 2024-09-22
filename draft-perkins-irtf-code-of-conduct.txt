@@ -89,7 +89,7 @@ Table of Contents
    importance to the evolution and deployment of the Internet protocols,
    applications, architecture and technology, and to understand the
    development of the Internet in all its diversity and for all its
-   users, considering both technical, economic, and societal challenges
+   users, considering the technical, economic, and societal challenges
    of such development.  The IRTF focuses on longer-term research issues
    related to the Internet while the parallel organisation, the Internet
    Engineering Task Force (IETF), focuses on the shorter-term issues of
@@ -217,7 +217,7 @@ Table of Contents
    for the glory of a few.
 
    Plagiarism, misrepresentation of authorship, and content
-   falsification constitutes dishonesty and fraud.  Such actions are
+   falsification constitute dishonesty and fraud.  Such actions are
    prohibited and the IRTF may take action against authors who commit
    them including retraction of the published work or exclusion of the
    offending party from IRTF activities.
