@@ -105,7 +105,7 @@ This document is a product of the Internet Research Steering Group (IRSG).
 The Internet Research Task Force (IRTF) promotes research of importance
 to the evolution and deployment of the Internet protocols, applications,
 architecture and technology, and to understand the development of the
-Internet in all its diversity and for all its users, considering both
+Internet in all its diversity and for all its users, considering the
 technical, economic, and societal challenges of such development.
 The IRTF focuses on longer-term research issues related to the Internet
 while the parallel organisation, the Internet Engineering Task Force (IETF),
@@ -231,7 +231,7 @@ recognise that understanding advances through collaborative research
 efforts of many, rather than for the glory of a few.
 
 Plagiarism, misrepresentation of authorship, and
-content falsification constitutes dishonesty and fraud. Such actions are
+content falsification constitute dishonesty and fraud. Such actions are
 prohibited and the IRTF may take action against authors who commit them
 including retraction of the published work or exclusion of the offending
 party from IRTF activities.
