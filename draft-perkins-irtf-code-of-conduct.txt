@@ -159,11 +159,12 @@ Table of Contents
    exclusion of the offending party from IRTF activities.
 
    The IRTF sometimes organises meetings or activities that co-locate
-   with events organised by others.  For example, an IRTF research group
-   might hold a meeting co-located with a related academic conference.
-   If the other event has an anti-harassment policy that differs from
-   that of the IRTF, it should be made clear to participants which
-   policy applies.
+   with events organised by others.  These meetings or activities may
+   need to follow the anti-harassment policy of the hosting event, which
+   may differ from that of the IRTF.  In such cases, the organisers of
+   the IRTF meeting or activity should check with the IRTF Chair to
+   confirm that the policy is acceptable and it should be made clear to
+   participants what policy applies.
 
    The IRTF operates and makes use of a number of mailing lists and
    other online discussion forums.  At the time of this writing,
