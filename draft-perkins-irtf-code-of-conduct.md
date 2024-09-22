@@ -161,7 +161,7 @@ deliberate intimidation, stalking, harassing photography or recording,
 inappropriate physical contact, and unwelcome sexual attention.
 
 Harassment will not be tolerated in IRTF research group meetings, open
-meetings, conferences, workshops, other events, mailing lists, or other online
+meetings, conferences, workshops, other events, mailing lists, virtual meeting, or other online
 forums. Participants must follow the IETF anti-harassment policy which also
 applies to the IRTF [ANTI-HARASSMENT].
 
@@ -191,8 +191,8 @@ posting of messages that are inflammatory, abusive, or otherwise
 inappropriate, or the repeated posting of off-topic material, on these lists
 and discussion forums will not be tolerated.
 Moderators will respond to harassing or disruptive behaviour with either a
-warning, by temporarily suspending posting rights, or after consultation
-with the IRTF Chair by permanently suspending posting rights for an individual,
+warning, by temporarily suspending posting rights, or after approval from
+the IRTF Chair by permanently suspending posting rights for an individual,
 based on the seriousness and history of the behaviour.
 
 Participants who have concerns about, or wish to appeal against, a moderation decision
@@ -208,9 +208,9 @@ English is the de facto language in which the IRTF works, but is not the
 native language of many IRTF participants. All participants, particularly
 those with English as a first language, should attempt to accommodate the
 needs of others by communicating clearly.
-Participants are reminded that reading, writing, and conversing in a
-language where one is not a native speaker may be difficult, and to
-treat those doing so with grace if they do so imperfectly.
+Reading, writing, and conversing in a language where one is not a native
+speaker may be difficult, and IRTP participants should treat those doing
+so with grace and understanding.
 
 Participants should aim to speak slowly and clearly in presentations and
 discussions, and should strive to make presentations and other materials
@@ -218,7 +218,7 @@ accessible to those with impaired vision or disabilities. Participants
 should also avoid the use of slang and unnecessary jargon in both spoken
 and written communication. When faced with English that may be difficult to
 understand, IRTF participants should make a sincere effort to understand
-each other and to engage in conversation to clarify what was meant.
+each other and to engage in conversation to clarify when necessary.
 
 Participants should ensure that language and imagery used in IRTF
 documents, presentations, mailing lists, research group meetings, open meetings,
@@ -259,7 +259,8 @@ community. These documents are encouraged as an important part of the
 process of disseminating research ideas and ensuring that they work in
 the Internet at large, but authors must ensure that prior work on which
 they are based, including their own prior work, is appropriately cited and
-acknowledged, and that such documents respect the copyright of prior work.
+acknowledged, and that such documents respect the copyright of prior work
+and are written with the permission of any co-authors.
 
 IRTF documents may represent the views of their authors or they may be
 consensus documents representing the views of a research group. It is a
@@ -323,7 +324,7 @@ for a research group, or who wish to appeal a membership decision, should
 raise their concern with the IRTF Chair.
 
 In exceptional cases, advice from legal counsel may be to restrict an
-individual from using IRTF systems and/or from participating in IRTF
+individual from using IRTF IT systems and/or from participating in IRTF
 research group meetings, open meetings, conferences, workshops, and other
 events. In such cases, the IRTF Chair will act following the principles outlined in the
 Statement on Restricting Access [RESTRICTING]. Due to the potential impact
@@ -365,8 +366,8 @@ acknowledged.
 
 Thanks to Carsten Bormann, Vigdis Bronder, Ignacio Castro, Jane Coffin,
 Jay Daley, Dhruv Dhody, Toerless Eckert, Lars Eggert, Reese Enghardt,
-Stephen Farrell, Simone Ferlin, Mallory Knodel, Dirk Kutscher, Allison Mankin,
-Alexey Melnikov, Marie-Jose Montpetit, Dave Oran, Pete Resnick,
+Stephen Farrell, Simone Ferlin, Wes Hardaker, Mallory Knodel, Dirk Kutscher,
+Allison Mankin, Alexey Melnikov, Marie-Jose Montpetit, Dave Oran, Pete Resnick,
 Eve Schooler, Melinda Shore, Niels ten Oever, Brian Trammell, Rich Salz,
 Paul Wouters, and other members of the Internet Research Steering Group
 (IRSG) for their feedback on this code of conduct.
