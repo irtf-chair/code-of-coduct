@@ -209,7 +209,7 @@ native language of many IRTF participants. All participants, particularly
 those with English as a first language, should attempt to accommodate the
 needs of others by communicating clearly.
 Reading, writing, and conversing in a language where one is not a native
-speaker may be difficult, and IRTP participants should treat those doing
+speaker may be difficult, and IRTF participants should treat those doing
 so with grace and understanding.
 
 Participants should aim to speak slowly and clearly in presentations and
