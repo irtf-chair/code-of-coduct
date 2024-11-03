@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-10-31T00:58:43.735967+00:00",
+  "timestamp": "2024-11-03T01:02:14.881514+00:00",
   "repo": "irtf-chair/code-of-coduct",
   "labels": [
     {
@@ -142,6 +142,34 @@
       "mergedBy": "csperkins",
       "mergeCommit": {
         "oid": "6b72f02acaba88d3104fa8e97f77755aae7ffeda"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 4,
+      "id": "PR_kwDOKKIeBM6As42E",
+      "title": "Fix minor typo",
+      "url": "https://github.com/irtf-chair/code-of-coduct/pull/4",
+      "state": "MERGED",
+      "author": "ShivanKaul",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2024-11-02T16:18:58Z",
+      "updatedAt": "2024-11-02T19:25:12Z",
+      "baseRepository": "irtf-chair/code-of-coduct",
+      "baseRefName": "main",
+      "baseRefOid": "b8a0959e0e32b7e87800ea80514ab1728a743364",
+      "headRepository": "ShivanKaul/code-of-coduct",
+      "headRefName": "patch-1",
+      "headRefOid": "4f826446d554cc61d271940ff26d5eb1eeb80e3e",
+      "closedAt": "2024-11-02T19:25:12Z",
+      "mergedAt": "2024-11-02T19:25:12Z",
+      "mergedBy": "csperkins",
+      "mergeCommit": {
+        "oid": "d4e04a952e1e30ffcc8dd1a9a893233e03b7f422"
       },
       "comments": [],
       "reviews": []
