@@ -229,7 +229,7 @@ are encouraged to follow the guidance on inclusive language in [NISTIR8366]
 when making contributions to the IRTF [INCLUSIVE].
 
 
-# Academic Integrity
+# Research Integrity
 
 Participants must act with respect, honesty, transparency, and fairness.
 They should be trustworthy, aspire to objectivity, and aim to provide factual
@@ -366,7 +366,7 @@ The influence of the code of conduct and other policies of ICANN, the USENIX
 Association, and the Association for Computing Machinery is also gratefully
 acknowledged.
 
-Thanks to Carsten Bormann, Vigdis Bronder, Ignacio Castro, Jane Coffin,
+Thanks to Carsten Bormann, Vigdis Bronder, Laurent Ciavaglia, Ignacio Castro, Jane Coffin,
 Jay Daley, Dhruv Dhody, Toerless Eckert, Lars Eggert, Reese Enghardt,
 Stephen Farrell, Simone Ferlin, Wes Hardaker, Jana Iyengar, Mallory Knodel,
  Dirk Kutscher, Mirja Kühlewind,
