@@ -4,8 +4,8 @@
 
 IRTF                                                       C. S. Perkins
 Internet-Draft                                     University of Glasgow
-Intended status: Informational                           2 November 2024
-Expires: 6 May 2025
+Intended status: Informational                          22 November 2024
+Expires: 26 May 2025
 
 
                           IRTF Code of Conduct
@@ -53,7 +53,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 6 May 2025.
+   This Internet-Draft will expire on 26 May 2025.
 
 Copyright Notice
 
@@ -184,9 +184,9 @@ Table of Contents
    Participants who have concerns about, or wish to appeal against, a
    moderation decision should raise their concerns with the IRTF Chair.
    If the concern relates to moderation decisions taken by the IRTF
-   Chair, then it should be raised with the Chair of the Internet
-   Architecture Board.  These parties will review the situation and may
-   reverse the moderation decision or take other action as appropriate.
+   Chair, then it should be raised with the Internet Architecture Board.
+   These parties will review the situation and may reverse the
+   moderation decision or take other action as appropriate.
 
 4.  Language and Imagery
 
@@ -423,11 +423,11 @@ Acknowledgments
    Thanks to Carsten Bormann, Vigdis Bronder, Ignacio Castro, Jane
    Coffin, Jay Daley, Dhruv Dhody, Toerless Eckert, Lars Eggert, Reese
    Enghardt, Stephen Farrell, Simone Ferlin, Wes Hardaker, Mallory
-   Knodel, Dirk Kutscher, Allison Mankin, Alexey Melnikov, Marie-Jose
-   Montpetit, Dave Oran, Pete Resnick, Eve Schooler, Melinda Shore,
-   Niels ten Oever, Brian Trammell, Rich Salz, Paul Wouters, and other
-   members of the Internet Research Steering Group (IRSG) for their
-   feedback on this code of conduct.
+   Knodel, Dirk Kutscher, Mirja Kühlewind, Allison Mankin, Alexey
+   Melnikov, Marie-Jose Montpetit, Dave Oran, Pete Resnick, Eve
+   Schooler, Melinda Shore, Niels ten Oever, Brian Trammell, Rich Salz,
+   Paul Wouters, and other members of the Internet Research Steering
+   Group (IRSG) for their feedback on this code of conduct.
 
 Author's Address
 
