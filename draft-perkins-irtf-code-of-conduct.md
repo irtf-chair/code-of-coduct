@@ -202,33 +202,6 @@ should be raised with the Internet Architecture Board.
 These parties will review the situation and may reverse the
 moderation decision or take other action as appropriate.
 
-# Language and Imagery
-
-English is the de facto language in which the IRTF works, but is not the
-native language of many IRTF participants. All participants, particularly
-those with English as a first language, should attempt to accommodate the
-needs of others by communicating clearly.
-Reading, writing, and conversing in a language where one is not a native
-speaker may be difficult, and IRTF participants should treat those doing
-so with grace and understanding.
-
-Participants should aim to speak slowly and clearly in presentations and
-discussions, and should strive to make presentations and other materials
-accessible to those with impaired vision or disabilities. Participants
-should also avoid the use of slang and unnecessary jargon in both spoken
-and written communication. When faced with English that may be difficult to
-understand, IRTF participants should make a sincere effort to understand
-each other and to engage in conversation to clarify when necessary.
-
-Participants should ensure that language and imagery used in IRTF
-documents, presentations, mailing lists, research group meetings, open meetings,
-conferences, workshops, and other events, are respectful and inclusive.
-Effective research uses terminology that is clear, precise, and widely
-accessible to readers from varying backgrounds and cultures.  Participants
-are encouraged to follow the guidance on inclusive language in [NISTIR8366]
-when making contributions to the IRTF [INCLUSIVE].
-
-
 # Research Integrity
 
 Participants must act with respect, honesty, transparency, and fairness.
@@ -291,6 +264,23 @@ Participants and Subjects [ACM] for further discussion of issues around
 ethical conduct of research.
 
 
+# Inclusive Language and Imagery
+
+Participants should ensure that language and imagery used in IRTF
+documents, presentations, mailing lists, research group meetings, open meetings,
+conferences, workshops, and other events, are respectful and inclusive.
+Effective research uses terminology that is clear, precise, and widely
+accessible to readers from varying backgrounds and cultures.  Participants
+are encouraged to follow the guidance on inclusive language in [NISTIR8366]
+when making contributions to the IRTF [INCLUSIVE].
+
+Participants should avoid the use of slang and unnecessary jargon in
+both spoken and written communication. When faced with English that may be
+difficult to understand, IRTF participants should make a sincere effort to
+understand each other and to engage in conversation to clarify when
+necessary.
+
+
 # Participation and Accessibility
 
 
@@ -300,6 +290,18 @@ of participation, IRTF participants
 should consider accessibility and access-related concerns when organising
 research group meetings, open meetings, conferences, workshops, and other events to
 ensure such events are broadly accessible to all who wish to participate.
+
+English is the de facto language in which the IRTF works, but is not the
+native language of many IRTF participants. All participants, particularly
+those with English as a first language, should attempt to accommodate the
+needs of others by communicating clearly.
+Reading, writing, and conversing in a language where one is not a native
+speaker may be difficult, and IRTF participants should treat those doing
+so with grace and understanding.
+
+Participants should aim to speak slowly and clearly in presentations and
+discussions, and should strive to make presentations and other materials
+accessible to those with impaired vision or disabilities.
 
 Participants should work to enable remote participation in IRTF events to
 support those who cannot attend in person, and should aim to make materials
