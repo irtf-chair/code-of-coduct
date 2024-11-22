@@ -71,9 +71,9 @@ Table of Contents
    1.  Introduction
    2.  Rationale
    3.  Conduct
-   4.  Language and Imagery
-   5.  Academic Integrity
-   6.  Research Ethics
+   4.  Research Integrity
+   5.  Research Ethics
+   6.  Inclusive Language and Imagery
    7.  Participation and Accessibility
    8.  Security Considerations
    9.  IANA Considerations
@@ -188,35 +188,7 @@ Table of Contents
    These parties will review the situation and may reverse the
    moderation decision or take other action as appropriate.
 
-4.  Language and Imagery
-
-   English is the de facto language in which the IRTF works, but is not
-   the native language of many IRTF participants.  All participants,
-   particularly those with English as a first language, should attempt
-   to accommodate the needs of others by communicating clearly.
-   Reading, writing, and conversing in a language where one is not a
-   native speaker may be difficult, and IRTF participants should treat
-   those doing so with grace and understanding.
-
-   Participants should aim to speak slowly and clearly in presentations
-   and discussions, and should strive to make presentations and other
-   materials accessible to those with impaired vision or disabilities.
-   Participants should also avoid the use of slang and unnecessary
-   jargon in both spoken and written communication.  When faced with
-   English that may be difficult to understand, IRTF participants should
-   make a sincere effort to understand each other and to engage in
-   conversation to clarify when necessary.
-
-   Participants should ensure that language and imagery used in IRTF
-   documents, presentations, mailing lists, research group meetings,
-   open meetings, conferences, workshops, and other events, are
-   respectful and inclusive.  Effective research uses terminology that
-   is clear, precise, and widely accessible to readers from varying
-   backgrounds and cultures.  Participants are encouraged to follow the
-   guidance on inclusive language in [NISTIR8366] when making
-   contributions to the IRTF [INCLUSIVE].
-
-5.  Academic Integrity
+4.  Research Integrity
 
    Participants must act with respect, honesty, transparency, and
    fairness.  They should be trustworthy, aspire to objectivity, and aim
@@ -261,7 +233,7 @@ Table of Contents
    Similarly, the editors of a research group consensus document must
    not misrepresent their role as that of authors.
 
-6.  Research Ethics
+5.  Research Ethics
 
    Participants must ensure that their research, in particular research
    that involves human subjects or personal data, is conducted ethically
@@ -279,6 +251,23 @@ Table of Contents
    Involving Human Participants and Subjects [ACM] for further
    discussion of issues around ethical conduct of research.
 
+6.  Inclusive Language and Imagery
+
+   Participants should ensure that language and imagery used in IRTF
+   documents, presentations, mailing lists, research group meetings,
+   open meetings, conferences, workshops, and other events, are
+   respectful and inclusive.  Effective research uses terminology that
+   is clear, precise, and widely accessible to readers from varying
+   backgrounds and cultures.  Participants are encouraged to follow the
+   guidance on inclusive language in [NISTIR8366] when making
+   contributions to the IRTF [INCLUSIVE].
+
+   Participants should avoid the use of slang and unnecessary jargon in
+   both spoken and written communication.  When faced with English that
+   may be difficult to understand, IRTF participants should make a
+   sincere effort to understand each other and to engage in conversation
+   to clarify when necessary.
+
 7.  Participation and Accessibility
 
    To encourage broad participation, and support the goal of providing
@@ -288,6 +277,18 @@ Table of Contents
    group meetings, open meetings, conferences, workshops, and other
    events to ensure such events are broadly accessible to all who wish
    to participate.
+
+   English is the de facto language in which the IRTF works, but is not
+   the native language of many IRTF participants.  All participants,
+   particularly those with English as a first language, should attempt
+   to accommodate the needs of others by communicating clearly.
+   Reading, writing, and conversing in a language where one is not a
+   native speaker may be difficult, and IRTF participants should treat
+   those doing so with grace and understanding.
+
+   Participants should aim to speak slowly and clearly in presentations
+   and discussions, and should strive to make presentations and other
+   materials accessible to those with impaired vision or disabilities.
 
    Participants should work to enable remote participation in IRTF
    events to support those who cannot attend in person, and should aim
@@ -423,14 +424,15 @@ Acknowledgments
    of ICANN, the USENIX Association, and the Association for Computing
    Machinery is also gratefully acknowledged.
 
-   Thanks to Carsten Bormann, Vigdis Bronder, Ignacio Castro, Jane
-   Coffin, Jay Daley, Dhruv Dhody, Toerless Eckert, Lars Eggert, Reese
-   Enghardt, Stephen Farrell, Simone Ferlin, Wes Hardaker, Jana Iyengar,
-   Mallory Knodel, Dirk Kutscher, Mirja Kühlewind, Allison Mankin,
-   Alexey Melnikov, Marie-Jose Montpetit, Dave Oran, Pete Resnick, Eve
-   Schooler, Melinda Shore, Niels ten Oever, Brian Trammell, Rich Salz,
-   Paul Wouters, and other members of the Internet Research Steering
-   Group (IRSG) for their feedback on this code of conduct.
+   Thanks to Carsten Bormann, Vigdis Bronder, Laurent Ciavaglia, Ignacio
+   Castro, Jane Coffin, Jay Daley, Dhruv Dhody, Toerless Eckert, Lars
+   Eggert, Reese Enghardt, Stephen Farrell, Simone Ferlin, Wes Hardaker,
+   Jana Iyengar, Mallory Knodel, Dirk Kutscher, Mirja Kühlewind, Allison
+   Mankin, Alexey Melnikov, Marie-Jose Montpetit, Dave Oran, Pete
+   Resnick, Eve Schooler, Melinda Shore, Niels ten Oever, Brian
+   Trammell, Rich Salz, Paul Wouters, and other members of the Internet
+   Research Steering Group (IRSG) for their feedback on this code of
+   conduct.
 
 Author's Address
 
