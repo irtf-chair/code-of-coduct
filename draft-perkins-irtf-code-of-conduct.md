@@ -198,7 +198,7 @@ based on the seriousness and history of the behaviour.
 Participants who have concerns about, or wish to appeal against, a moderation decision
 should raise their concerns with the IRTF Chair. If
 the concern relates to moderation decisions taken by the IRTF Chair, then it
-should be raised with the Chair of the Internet Architecture Board.
+should be raised with the Internet Architecture Board.
 These parties will review the situation and may reverse the
 moderation decision or take other action as appropriate.
 
@@ -367,6 +367,7 @@ acknowledged.
 Thanks to Carsten Bormann, Vigdis Bronder, Ignacio Castro, Jane Coffin,
 Jay Daley, Dhruv Dhody, Toerless Eckert, Lars Eggert, Reese Enghardt,
 Stephen Farrell, Simone Ferlin, Wes Hardaker, Mallory Knodel, Dirk Kutscher,
+Mirja Kühlewind,
 Allison Mankin, Alexey Melnikov, Marie-Jose Montpetit, Dave Oran, Pete Resnick,
 Eve Schooler, Melinda Shore, Niels ten Oever, Brian Trammell, Rich Salz,
 Paul Wouters, and other members of the Internet Research Steering Group
