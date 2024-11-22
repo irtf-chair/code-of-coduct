@@ -374,6 +374,6 @@ Stephen Farrell, Simone Ferlin, Wes Hardaker, Jana Iyengar, Mallory Knodel,
  Dirk Kutscher, Mirja Kühlewind,
 Allison Mankin, Alexey Melnikov, Marie-Jose Montpetit, Dave Oran, Pete Resnick,
 Eve Schooler, Melinda Shore, Niels ten Oever, Brian Trammell, Rich Salz,
-Paul Wouters, and other members of the Internet Research Steering Group
+Paul Wouters, Rod Van Meter, and other members of the Internet Research Steering Group
 (IRSG) for their feedback on this code of conduct.
 
