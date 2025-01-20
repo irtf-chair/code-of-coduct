@@ -4,8 +4,8 @@
 
 IRTF                                                       C. S. Perkins
 Internet-Draft                                     University of Glasgow
-Intended status: Informational                          22 November 2024
-Expires: 26 May 2025
+Intended status: Informational                           20 January 2025
+Expires: 24 July 2025
 
 
                           IRTF Code of Conduct
@@ -53,11 +53,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 26 May 2025.
+   This Internet-Draft will expire on 24 July 2025.
 
 Copyright Notice
 
-   Copyright (c) 2024 IETF Trust and the persons identified as the
+   Copyright (c) 2025 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -204,15 +204,15 @@ Table of Contents
    them including retraction of the published work or exclusion of the
    offending party from IRTF activities.
 
-   The use of automated systems, such as large language models and AI-
-   based tools, to generate all or part of the content of a document,
-   paper, presentation, or other submission to the IRTF must be
-   documented and credited such that it is clear what parts were
-   generated with input from the automated system.  Using such tools
-   without credit is considered a misrepresentation of authorship
-   (automated systems that make spelling, stylistic, or grammar
-   corrections, or that translate between languages, are exempted from
-   this disclosure requirement).
+   Generative AI tools and systems must not be listed as authors of IRTF
+   documents, presentations, or other materials.  The use of generative
+   AI to create text or other content is permitted but must be
+   disclosed, for example through an acknowledgement describing which AI
+   system was used and how it contributed.  The use of AI to perform
+   spelling or grammar checks and corrections, to translate between
+   languages, or to otherwise improve the presentation of content need
+   not be disclosed.  If you are uncertain about the need to disclose
+   the use of generative AI, you should include a disclosure.
 
    The IRTF publishes informational and experimental documents in the
    RFC series.  The nature of these documents, and their preceding
