@@ -217,14 +217,15 @@ prohibited and the IRTF may take action against authors who commit them
 including retraction of the published work or exclusion of the offending
 party from IRTF activities.
 
-The use of automated systems, such as large language models and AI-based
-tools, to generate all or part of the content of a document, paper,
-presentation, or other submission to the IRTF must be documented and
-credited such that it is clear what parts were generated with input from
-the automated system. Using such tools without credit is considered a
-misrepresentation of authorship (automated systems that make spelling,
-stylistic, or grammar corrections, or that translate between languages,
-are exempted from this disclosure requirement).
+Generative AI tools and systems must not be listed as authors of IRTF
+documents, presentations, or other materials. The use of generative AI
+to create text or other content is permitted but must be disclosed, for
+example through an acknowledgement describing which AI system was used and
+how it contributed.  The use of AI to perform spelling or grammar checks
+and corrections, to translate between languages, or to otherwise improve
+the presentation of content need not be disclosed. If you are uncertain
+about the need to disclose the use of generative AI, you should include
+a disclosure.
 
 The IRTF publishes informational and experimental documents in the RFC
 series. The nature of these documents, and their preceding internet-drafts,
