@@ -219,13 +219,12 @@ party from IRTF activities.
 
 Generative AI tools and systems must not be listed as authors of IRTF
 documents, presentations, or other materials. The use of generative AI
-to create text or other content is permitted but must be disclosed, for
+to create text or other content is permitted but must be disclosed if
+significant amounts of such content are included, for
 example through an acknowledgement describing which AI system was used and
 how it contributed.  The use of AI to perform spelling or grammar checks
 and corrections, to translate between languages, or to otherwise improve
-the presentation of content need not be disclosed. If you are uncertain
-about the need to disclose the use of generative AI, you should include
-a disclosure.
+the presentation of content need not be disclosed.
 
 The IRTF publishes informational and experimental documents in the RFC
 series. The nature of these documents, and their preceding internet-drafts,
